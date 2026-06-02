@@ -73,6 +73,46 @@ Loyiha yangi ish o‘rinlari yaratadi, mavsumiy bandlikni ta’minlaydi va mahal
 Yuqoridagilardan kelib chiqib, kunlik quvvati 8 tonna bo‘lgan meva konservalari ishlab chiqarish liniyasini tashkil etish texnik jihatdan asoslangan, iqtisodiy jihatdan samarali, ijtimoiy jihatdan muhim va ekologik jihatdan maqbul loyiha hisoblanadi. Shu sababli ushbu mavzu dolzarb va ilmiy-amaliy ahamiyatga ega.
 
 
+### Konservalash sanoatining tarixiy rivojlanishi
+
+Oziq-ovqat mahsulotlarini germetik idishlarda issiqlik bilan saqlash usuli XIX asr boshlarida shakllangan. Fransuz tadbirkori va oshpazi Nikola Apper 1809–1810-yillarda mahsulotlarni shisha idishlarga joylab, qaynoq suvda qizdirib, so‘ngra germetik berkitish orqali ularni uzoq saqlash mumkinligini amaliy tarzda isbotladi va shu kashfiyoti uchun mukofotga sazovor bo‘ldi. O‘sha davrda mikroorganizmlar haqida tushuncha bo‘lmagani uchun bu usulning ilmiy sababi noma’lum edi. Keyinchalik Lui Paster mikroorganizmlarning oziq-ovqat buzilishidagi rolini va ularni issiqlik bilan zararsizlantirish mumkinligini ilmiy asoslab berdi. Shu tariqa konservalashning nazariy asoslari yaratildi. Metall (qalay qoplangan po‘lat) idishlarning ixtiro qilinishi konserva sanoatini sanoat miqyosiga ko‘chirdi. XX asrda meva konservalari, jumladan kompotlar, jemlar va sharbatlar ishlab chiqarish keng tarqaldi va bugungi kunda konservalash oziq-ovqat sanoatining yirik tarmoqlaridan biriga aylandi.
+
+O‘zbekiston hududida ham mevalarni qayta ishlash va konservalash an’analari qadimdan mavjud bo‘lib, an’anaviy usulda quritilgan mevalar (mayiz, turshak, qoqi) tayyorlangan. Sanoat konservalash esa XX asrda rivojlandi va bugungi kunda zamonaviy texnologiyalar asosida takomillashtirilmoqda.
+
+### Meva konservalarining tasnifi
+
+Meva konservalari turli mezonlar bo‘yicha tasniflanadi. Tayyorlash usuli va tarkibiga ko‘ra ular quyidagi asosiy guruhlarga bo‘linadi: meva kompotlari (mevalar shakar siropida, sterilizatsiyalangan); tabiiy meva konservalari (faqat mevalar, qo‘shimchasiz, o‘z sharbatida); meva jemlari, konfiturlari va djemlari (shakar bilan qaynatilgan, jelesimon); povidlo va meva pyuresi (qaynatilgan, maydalangan); meva marinadlari (sirka qo‘shilgan); meva sharbatlari va nektarlari. Mazkur ishda asosiy mahsulot sifatida meva kompotlari qabul qilingan, chunki ular eng keng tarqalgan, talab yuqori va texnologiyasi yaxshi o‘zlashtirilgan meva konservalaridir.
+
+Kislotalilik darajasiga ko‘ra konservalar uch guruhga bo‘linadi: past kislotali (pH > 4,5), kislotalangan (pH 3,7–4,5) va yuqori kislotali (pH < 3,7). Ko‘pchilik mevalar tabiatan kislotali (pH < 4,5) bo‘lgani uchun meva konservalari kislotali yoki yuqori kislotali konservalar guruhiga kiradi. Bu ularning sterilizatsiya rejimini belgilashda hal qiluvchi ahamiyatga ega: kislotali muhitda mikroorganizmlar issiqlikka kamroq chidamli bo‘lgani uchun sterilizatsiya nisbatan past haroratda (100 °C atrofida) olib boriladi.
+
+### Konserva mahsulotlarining mikrobiologik buzilishi
+
+Konserva mahsulotlarini buzadigan mikroorganizmlar va ularning ta’sirini bilish texnologiyani to‘g‘ri tashkil etish uchun zarur. Asosiy mikrobiologik buzilish turlari quyidagilar:
+
+Botulizm xavfi. Past kislotali muhitda (pH > 4,5), anaerob sharoitda Clostridium botulinum bakteriyasi rivojlanib, o‘ta zaharli toksin hosil qiladi. Mevalar tabiatan kislotali (pH < 4,5) bo‘lgani uchun meva konservalarida bu xavf minimal, ammo kislotaliligi past mevalar uchun qo‘shimcha kislotalash (limon kislotasi qo‘shish) qo‘llaniladi.
+
+Yassi-nordon buzilish (flat-sour). Termofil bakteriyalar (Bacillus turlari) mahsulotni kislotalantiradi, ammo gaz hosil qilmaydi, shuning uchun idish shishmaydi. Bu mahsulot ta’mini buzadi. Oldini olish: xom ashyo va uskunalar tozaligi, to‘g‘ri sterilizatsiya, tez sovitish.
+
+Bombaj (idishning shishishi). Gaz hosil qiluvchi mikroorganizmlar yoki kimyoviy korroziya idish ichida bosim hosil qilib, qopqoqning bo‘rtishiga olib keladi. Bombajlangan idishlar yaroqsiz hisoblanadi va iste’mol qilinmaydi. Bombaj mikrobiologik, fizik (haddan ortiq to‘ldirish) yoki kimyoviy (vodorod gazi, metall korroziyasi) bo‘lishi mumkin.
+
+Mog‘or va achitqilar. Germetiklik buzilganda yoki yetarli sterilizatsiya qilinmaganda mog‘or va achitqilar rivojlanadi. Mevalardagi shakar achitqilar uchun qulay muhit bo‘lgani uchun bu xavf alohida e’tibor talab qiladi. To‘g‘ri sterilizatsiya va germetiklik bu buzilishning oldini oladi.
+
+Bu buzilishlarning oldini olish uchun uchta asosiy shart bajariladi: xom ashyo va ishlab chiqarish gigiyenasi; to‘g‘ri kislotalilik (pH < 4,5); yetarli sterilizatsiya va ishonchli germetiklik.
+
+### Issiqlik bilan ishlovning nazariy chuqurroq asoslari (F-qiymat)
+
+Sterilizatsiya samaradorligini ilmiy baholashda issiqlik bilan o‘ldirish kinetikasidan foydalaniladi. Har bir mikroorganizm ma’lum haroratda ma’lum vaqtda nobud bo‘ladi. Mikroorganizmlar sonini o‘n marta kamaytirish uchun zarur vaqt D-qiymat deb ataladi. Sterilizatsiyaning umumiy samaradorligi esa F-qiymat (ekvivalent sterilizatsiya vaqti) bilan ifodalanadi. Kislotali mevalar uchun pasterizatsiya darajasidagi issiqlik ishlovi (100 °C atrofida) yetarli bo‘lib, mahsulot xavfsizligini ta’minlaydi. Issiqlikning idish markaziga yetib borishi (issiqlik penetratsiyasi) idish hajmi, mahsulot konsistensiyasi va boshlang‘ich haroratga bog‘liq bo‘lgani uchun sterilizatsiya formulasi har bir mahsulot va idish turi uchun alohida belgilanadi va eksperimental tarzda tasdiqlanadi.
+
+### Jahon va mahalliy tajriba hamda bozor tahlili
+
+Rivojlangan davlatlarda meva konservalari sanoati yuqori darajada avtomatlashtirilgan bo‘lib, keng assortimentdagi kompotlar, jemlar, sharbatlar va nektarlar ishlab chiqariladi. Meva konservalari xalqaro savdoda muhim o‘rin tutadi. O‘zbekiston bog‘dorchilik mahsulotlari (o‘rik, shaftoli, olma, uzum, gilos) bo‘yicha katta salohiyatga ega bo‘lib, ularni chuqur qayta ishlash va eksportbop meva konservalari ishlab chiqarish katta imkoniyatlar yaratadi.
+
+Ichki bozorda meva konservalariga, ayniqsa sifatli va arzon kompotlarga talab yuqori. Talabni shakllantiruvchi asosiy iste’molchilar — uy xo‘jaliklari, umumiy ovqatlanish korxonalari (bolalar bog‘chalari, maktablar, kasalxonalar, restoranlar) va savdo tarmoqlaridir. Bolalar muassasalari va parhez ovqatlanish tizimida meva kompotlariga barqaror talab mavjud, bu esa mahsulot uchun ishonchli bozor segmentini ta’minlaydi.
+
+### Meva konservalarining afzalliklari
+
+Meva konservalarining muhim afzalliklari: mavsumiy mevalarni yil bo‘yi iste’mol qilish imkonini beradi; mevalarning vitamin va oziqaviy moddalarini saqlaydi; xona haroratida uzoq saqlanadi (sovutish talab qilmaydi); iste’molga tayyor; tashish va saqlashda qulay; turli meva turlaridan keng assortiment yaratish mumkin. Bu afzalliklar meva konservalarini iste’molchi va ishlab chiqaruvchi uchun jozibador qiladi.
+
 ## 1.2. Xom ashyo va tayyor mahsulot tavsifi
 
 Meva konservalarini ishlab chiqarishda foydalaniladigan xom ashyo va yordamchi materiallar sifati tayyor mahsulotning asosiy ko‘rsatkichlarini belgilovchi eng muhim omillardan biridir. Xususan, mevalarning navi, yetilganligi, qand va kislota miqdori, qattiqligi, shuningdek shakar, suv va yordamchi materiallarning sifati tayyor mahsulotning ta’mi, rangi, teksturasi, oziqaviy qiymati va xavfsizligiga bevosita ta’sir ko‘rsatadi.
@@ -151,6 +191,55 @@ Meva konservalari quyidagi asosiy turlarga bo‘linadi: meva kompotlari (mevalar
 ### Xom ashyoning tayyor mahsulot sifatiga ta’siri
 
 Xom ashyo va materiallar sifati tayyor mahsulotning deyarli barcha ko‘rsatkichlariga ta’sir qiladi: mevalarning navi va yetilganligi — mahsulot ta’mi, rangi va teksturasiga; qand va kislota miqdori — ta’m muvozanati va sterilizatsiya rejimiga; shakar va sirop konsentratsiyasi — shirinlik va saqlanuvchanlikka; sterilizatsiya rejimi — mikrobiologik xavfsizlik va sifat saqlanishiga. Sifatli xom ashyo va to‘g‘ri texnologik rejim mahsulot sifatini va xavfsizligini ta’minlaydi.
+
+### Asosiy meva turlarining batafsil tavsifi
+
+Meva kompotlari turli mevalardan tayyorlanadi. Quyida O‘zbekiston sharoitida keng qo‘llaniladigan asosiy meva turlari va ularning kompot ishlab chiqarishdagi xususiyatlari batafsil ko‘rib chiqiladi.
+
+Olma. Olma kompot ishlab chiqarishda eng ko‘p ishlatiladigan mevalardan biridir. U yil bo‘yi mavjud, narxi nisbatan arzon va texnologik jihatdan qulay. Olma tarkibida qandlar (9–12 %), olma kislotasi, pektin va C vitamini mavjud. Kompot uchun eti zich, nordon-shirin ta’mli, yetilgan, ammo unmaydigan (yumshamaydigan) navlar tanlanadi. Olma po‘sti archiladi, urug‘ kamerasi olib tashlanadi va bo‘laklarga (tilim yoki segment) bo‘linadi. Olma tez qoraygani uchun tozalangandan keyin limon kislotasi eritmasida saqlanadi va blanshirovka qilinadi.
+
+Nok. Nok ham olmaga o‘xshash qayta ishlanadi. U yumshoqroq tekstura va shirinroq ta’mga ega. Kompot uchun eti zich, donador bo‘lmagan navlar afzal. Nok po‘sti archiladi, o‘zagi olib tashlanadi, bo‘laklarga bo‘linadi va blanshirovka qilinadi.
+
+O‘rik. O‘rik O‘zbekistonning eng mashhur va eksportbop mevalaridan biri bo‘lib, kompot uchun a’lo xom ashyo hisoblanadi. U yorqin to‘q sariq rang, yoqimli aromat va muvozanatlangan shirin-nordon ta’mga ega. Kompot uchun yetilgan, eti zich o‘rik tanlanadi, ikkiga bo‘linib danak chiqariladi. O‘rik kompoti yuqori talabga ega.
+
+Shaftoli. Shaftoli yirik, sersuv va shirin meva bo‘lib, kompot uchun mashhur xom ashyodir. Uning po‘sti ayrim hollarda shilinadi (issiq suv yoki ishqor bilan), danak chiqariladi va ikkiga yoki bo‘laklarga bo‘linadi. Shaftoli kompoti yuqori ta’m sifati bilan ajralib turadi.
+
+Gilos va olcha. Gilos (shirin) va olcha (nordon) mayda mevalar bo‘lib, kompotda butun holda ishlatiladi. Ular yorqin rang va o‘ziga xos ta’m beradi. Bandlari olinadi, ayrim hollarda danak chiqariladi. Olcha nordonligi tufayli yorqin ta’mli kompot beradi. Bu mevalar yumshoq bo‘lgani uchun ehtiyotkorlik bilan ishlanadi va blanshirovka qilinmaydi.
+
+Uzum. Uzum yuqori qandli (14–18 %) meva bo‘lib, kompotda butun g‘ujumlar yoki donalar holida ishlatiladi. Donalar shingildan ajratiladi, yuviladi. Uzum kompoti tabiiy shirinligi tufayli kam shakar talab qiladi.
+
+Behi. Behi qattiq, aromatli va pektinl boy meva bo‘lib, kompot va jemga juda mos. U po‘stidan archiladi, o‘zagi olib tashlanadi, bo‘laklarga bo‘linadi va albatta blanshirovka qilinadi (qattiq bo‘lgani uchun). Behi kompoti o‘ziga xos kuchli aromatga ega.
+
+Olxo‘ri (slива). Olxo‘ri kompot uchun yaxshi xom ashyo bo‘lib, butun yoki ikkiga bo‘linib danak chiqarilgan holda ishlatiladi. U yorqin rang va shirin-nordon ta’m beradi.
+
+Aralash (assorti) kompotlar. Bir necha meva turidan (olma, o‘rik, shaftoli, uzum) tayyorlangan assorti kompotlar boy ta’m va jozibador ko‘rinishga ega bo‘lib, bozorda alohida talabga ega. Assorti kompotlar korxonaga turli mevalardan kompleks foydalanish imkonini beradi.
+
+### Shakar va shakar siropi
+
+Shakar kompot siropining asosiy komponenti bo‘lib, mahsulotga shirinlik, ta’m muvozanati va energiya beradi. Shakar oq, toza, quruq, begona hid va aralashmalarsiz, standart talablariga mos bo‘lishi kerak. Shakar siropi suvda shakarni eritib, qaynatib va filtrlash orqali tayyorlanadi. Sirop konsentratsiyasi meva turiga va uning tabiiy kislotaliligi hamda shirinligiga qarab tanlanadi: nordon mevalar (olcha, behi) uchun yuqoriroq (35–40 %), shirin mevalar (uzum, shaftoli) uchun pastroq (25–30 %) konsentratsiya qo‘llaniladi. To‘g‘ri tanlangan sirop konsentratsiyasi mahsulotning yoqimli, muvozanatlangan ta’mini ta’minlaydi.
+
+### Suv va boshqa yordamchi materiallar
+
+Sirop tayyorlash va mevalarni yuvishda ishlatiladigan suv ichimlik suvi talablariga javob berishi shart: shaffof, rangsiz, begona hid va ta’msiz, mikrobiologik xavfsiz. Suvning qattiqligi nazorat qilinadi, chunki qattiq suv mahsulot rangiga va siropning tiniqligiga ta’sir qilishi mumkin. Limon kislotasi kislotaliligi past mevalardan kompot tayyorlashda pH ni me’yorga keltirish uchun ishlatiladi. Askorbin kislotasi (C vitamini) ayrim hollarda qorayishning oldini olish va vitamin qiymatini oshirish uchun qo‘shilishi mumkin.
+
+### Tayyor mahsulot turlari va retseptura variantlari
+
+Quyidagi jadvalda bir necha meva kompotining taxminiy retseptura xususiyatlari keltirilgan:
+
+| Kompot turi | Meva tayyorlash | Sirop konsentratsiyasi, % | Xususiyati |
+| --- | --- | --- | --- |
+| Olma kompoti | Po‘sti archilib, bo‘laklab, blanshirovka | 30–35 | Universal, arzon |
+| O‘rik kompoti | Ikkiga bo‘lib, danak chiqarib | 30–35 | Yorqin rang, aromat |
+| Shaftoli kompoti | Po‘sti shilinib, bo‘laklab | 25–30 | Sersuv, shirin |
+| Olcha kompoti | Butun, band olinadi | 35–40 | Nordon, yorqin |
+| Uzum kompoti | Donalar ajratiladi | 25–30 | Tabiiy shirin |
+| Assorti kompot | Aralash mevalar | 30–35 | Boy ta’m |
+
+Retseptura mahsulot turiga, mavsumiy xom ashyoga va korxona texnik shartlariga qarab o‘zgartiriladi.
+
+### Tayyor mahsulotning nuqsonlari
+
+Sifat talablariga rioya qilinmaganda meva kompotida quyidagi nuqsonlar yuzaga kelishi mumkin: mevalarning qaynab, bo‘tqaga aylanishi (haddan ortiq yetilgan xom ashyo yoki ortiqcha sterilizatsiya); siropning loyqalanishi (ezilgan meva to‘qimasi); rangning xiralashishi (fermentativ qorayish, blanshirovka qilinmagan); mevalarning qalqib chiqishi (havo qolgan, eksgaustatsiya yetarli emas); ta’m nuqsonlari (sifatsiz xom ashyo yoki noto‘g‘ri sirop). Bu nuqsonlarning oldini olish uchun sifatli xom ashyo tanlash, to‘g‘ri texnologik rejim va sterilizatsiyaga rioya qilish zarur.
 
 ## 1.3. Mahsulot ishlab chiqarish yoki uni qayta ishlashning sanoat usullari
 
@@ -233,6 +322,62 @@ Afzalliklari: yuqori quvvat, barqaror va kafolatlangan sifat, mikrobiologik xavf
 Xulosa qilib aytganda, meva konservalarini ishlab chiqarishning sanoat usullari zamonaviy texnologiyalar asosida tashkil etilib, yuqori sifatli va xavfsiz mahsulot olish imkonini beradi. Mexanizatsiyalashgan liniyalar, aniq sterilizatsiya nazorati va sanitariya tizimlari ishlab chiqarish samaradorligini oshiradi. Kuniga 8 tonna quvvatli liniyani tashkil etish iqtisodiy va texnik jihatdan samarali hisoblanadi.
 
 
+### Sterilizatsiya uskunalarining turlari
+
+Sterilizatsiya meva konservalari ishlab chiqarishdagi eng muhim va eng ko‘p energiya talab qiladigan bosqich bo‘lgani uchun unda ishlatiladigan uskunalar alohida ahamiyatga ega. Sterilizatorlarning asosiy turlari:
+
+Vertikal avtoklavlar. Eng keng tarqalgan partiyali sterilizatorlar bo‘lib, idishlar savatlarga joylanadi va avtoklavga yuklanadi. Suv yoki bug‘ bilan belgilangan harorat va bosimda sterilizatsiya amalga oshiriladi. Vertikal avtoklavlar arzon, ishlatish oson va o‘rta quvvatli korxonalar uchun maqbul.
+
+Gorizontal avtoklavlar. Yirik partiyalarni qayta ishlash uchun mo‘ljallangan, savatlar relslar orqali yuklanadi. Katta hajmli ishlab chiqarish uchun qulay.
+
+Rotorli (aylanma) avtoklavlar. Idishlar sterilizatsiya davomida aylantiriladi, bu issiqlikning tez va bir tekis tarqalishini ta’minlaydi, sterilizatsiya vaqtini qisqartiradi va mahsulot sifatini yaxshilaydi.
+
+Uzluksiz sterilizatorlar va pasterizatorlar. Idishlar uzluksiz oqimda sterilizatsiya zonasidan o‘tadi. Yuqori unumdorlikka ega, ammo qimmat va yirik korxonalar uchun mo‘ljallangan. Tunnel tipidagi pasterizatorlar kompot va sharbat uchun keng qo‘llaniladi.
+
+Kunlik quvvati 8 tonna bo‘lgan korxona uchun vertikal avtoklavlar eng maqbul yechim hisoblanadi, chunki ular iqtisodiy jihatdan oqlanadi va boshqarishi qulay.
+
+### Meva konservalarining asosiy nuqsonlari va ularning oldini olish
+
+Meva konservalarini ishlab chiqarishda turli nuqsonlar yuzaga kelishi mumkin. Ularning sabablarini bilish va oldini olish mahsulot sifati va xavfsizligini ta’minlashda muhimdir.
+
+Bombaj (idishning shishishi). Sababi: yetarsiz sterilizatsiya, germetiklikning buzilishi, mikroorganizmlar gazi yoki kimyoviy korroziya. Oldini olish: to‘g‘ri sterilizatsiya rejimi, ishonchli germetiklik, kislotabardosh qopqoq qoplamasi. Bombajlangan mahsulot iste’molga yaroqsiz.
+
+Mevalarning qaynab ketishi. Sababi: haddan ortiq yetilgan xom ashyo, ortiqcha sterilizatsiya. Oldini olish: eti zich, yetilgan (ammo o‘ta pishmagan) xom ashyo, optimal sterilizatsiya formulasi, tez sovitish.
+
+Siropning loyqalanishi. Sababi: ezilgan meva to‘qimasi, kraxmal yoki pektin ajralishi. Oldini olish: ehtiyotkor ishlov, to‘g‘ri navlar tanlash.
+
+Rang o‘zgarishi. Sababi: fermentativ qorayish (blanshirovka qilinmagan), metall bilan reaksiya, haddan ortiq termik ishlov. Oldini olish: blanshirovka, korroziyabardosh uskunalar, tez sovitish, kerak bo‘lsa askorbin kislotasi.
+
+Mevalarning idishda qalqib chiqishi. Sababi: to‘qimada havo qolgan, eksgaustatsiya yetarli emas. Oldini olish: blanshirovka orqali havoni chiqarish, samarali eksgaustatsiya, to‘g‘ri meva-sirop nisbati.
+
+Vitamin yo‘qotilishi. Sababi: haddan ortiq termik ishlov, havoda uzoq turish (oksidlanish). Oldini olish: tez ishlov, eksgaustatsiya, optimal sterilizatsiya rejimi.
+
+### Vitaminlarni saqlash masalasi
+
+Meva konservalarining qimmati ularning vitaminlarni saqlashida ham namoyon bo‘ladi. C vitamini issiqlik, kislorod va metall ta’sirida oson parchalanadi. Uni saqlash uchun quyidagi tadbirlar qo‘llaniladi: tez ishlov berish (mevalarni havoda uzoq ushlamaslik); eksgaustatsiya orqali kislorodni chiqarish; optimal (haddan ortiq emas) sterilizatsiya rejimi; korroziyabardosh uskunalar; tez sovitish. To‘g‘ri texnologiya qo‘llanilganda mevalardagi C vitaminining sezilarli qismi tayyor mahsulotda saqlanadi.
+
+### Sifat va xavfsizlikni boshqarish (HACCP prinsiplari)
+
+Zamonaviy oziq-ovqat ishlab chiqarishida xavfsizlikni ta’minlash uchun HACCP (xavflarni tahlil qilish va kritik nazorat nuqtalari) tizimi qo‘llaniladi. Bu tizim mahsulot xavfsizligiga ta’sir qiluvchi biologik, kimyoviy va fizik xavflarni aniqlash va ularni kritik nazorat nuqtalarida boshqarishga asoslanadi. Meva konservalari ishlab chiqarishda asosiy kritik nazorat nuqtalari quyidagilar:
+
+Sterilizatsiya rejimi — sterilizatsiya harorati va vaqtining belgilangan formula bo‘yicha aniq bajarilishi mikrobiologik xavfsizlikni ta’minlaydi. Bu nuqta avtomatik nazorat va qayd qilish tizimi bilan kuzatiladi.
+
+Germetiklik (zakatka sifati) — idishlarning ishonchli berkitilishi qayta ifloslanishning oldini oladi. Zakatka shovi muntazam tekshiriladi.
+
+Kislotalilik (pH nazorati) — kislotaliligi past mevalar uchun pH ni 4,5 dan past ushlab turish botulizm xavfining oldini oladi.
+
+Xom ashyo qabuli — sifatsiz yoki ifloslangan xom ashyoning oldini olish.
+
+HACCP tizimi har bir kritik nuqtada nazorat chegaralari, monitoring usullari va korrektiv chora-tadbirlarni belgilaydi, bu mahsulot xavfsizligini tizimli kafolatlaydi.
+
+### Ishlab chiqarish sifat nazorati
+
+Sifat nazorati uch bosqichda amalga oshiriladi: kiruvchi nazorat (meva, shakar, suv, idish sifatini tekshirish); jarayon davomidagi nazorat (tozalash, blanshirovka, sirop konsentratsiyasi, fasovka massasi, sterilizatsiya parametrlari, germetiklik); chiquvchi nazorat (tayyor mahsulotning organoleptik, fizik-kimyoviy va mikrobiologik ko‘rsatkichlari). Tayyor mahsulot sanoat sterilligiga termostat sinovi orqali tekshiriladi: namunalar belgilangan haroratda saqlanib, buzilish belgilari (bombaj, loyqalanish) kuzatiladi. Faqat barcha ko‘rsatkichlari standartga mos mahsulot sotuvga chiqariladi.
+
+### Mahsulot assortimentini kengaytirish imkoniyatlari
+
+Meva kompotlari liniyasi asosida assortimentni kengaytirish mumkin: turli meva turlaridan kompotlar (olma, o‘rik, shaftoli, olcha, uzum); assorti (aralash) kompotlar; turli idish hajmlari; kam shakarli yoki shakarsiz (parhez) kompotlar; bolalar uchun mahsulotlar. Bundan tashqari, mavsumga qarab liniyada jem, povidlo yoki sharbat ishlab chiqarishni ham yo‘lga qo‘yish mumkin. Assortimentni kengaytirish bozor talabini to‘liqroq qondirish va korxona daromadini oshirish imkonini beradi.
+
 # II-BOB. TEXNOLOGIK QISM
 
 ## 2.1. Ishlab chiqarish texnologik sxemasini tanlash va asoslash
@@ -280,6 +425,30 @@ Qiyosiy tahlil natijasida mexanizatsiyalashgan, avtoklavli partiyali sterilizats
 | Sterilizatsiya harorati | ≈100 °C |
 | Sterilizatsiya formulasi (0,5 l) | (20–20–20)/100 °C |
 | Meva : sirop nisbati | 55:45 |
+
+### Idish turini tanlash va qiyosiy baholash
+
+Meva konservalari uchun idish tanlash muhim texnologik va iqtisodiy masaladir. Asosiy idish turlari va ularning xususiyatlari quyidagi jadvalda taqqoslangan:
+
+| Idish turi | Afzalligi | Kamchiligi |
+| --- | --- | --- |
+| Shisha banka | Mahsulot ko‘rinadi, kislotabardosh, qayta ishlatsa bo‘ladi, inert | Og‘ir, mo‘rt, sinishi mumkin |
+| Metall (lakli) banka | Yengil, sinmaydi, tez qiziydi | Korroziya xavfi, mahsulot ko‘rinmaydi |
+| Polimer idish | Yengil, arzon | Issiqlikka chidamliligi cheklangan |
+
+Meva kompotlari uchun shisha banka eng maqbul idish hisoblanadi, chunki u mahsulotni ko‘rsatadi (jozibador tovar ko‘rinishi), kislotali muhitga chidamli, inert (mahsulot bilan reaksiyaga kirmaydi) va qayta ishlatsa bo‘ladi. Shu sababli mazkur loyihada 0,5–1,0 l hajmli shisha banka asosiy idish sifatida tanlandi.
+
+### Sterilizatsiya usulini tanlash
+
+Sterilizatsiya partiyali (avtoklavlarda) yoki uzluksiz amalga oshirilishi mumkin. Partiyali sterilizatsiya moslashuvchan, nisbatan arzon va turli mahsulotlar uchun qulay, ammo mehnat sarfi yuqori. Uzluksiz sterilizatsiya yuqori unumdorlik beradi, lekin qimmat va asosan bir xil assortiment uchun mos. Kunlik 8 tonna quvvat uchun avtoklavli partiyali sterilizatsiya optimal hisoblanadi, chunki u o‘rta quvvatga mos, turli kompot turlarini ishlab chiqarishga imkon beradi va iqtisodiy jihatdan maqbuldir.
+
+### Sirop konsentratsiyasini asoslash
+
+Sirop konsentratsiyasi mahsulotning ta’m muvozanati va sifati uchun muhim. U mevaning tabiiy shirinligi va kislotaliligiga qarab tanlanadi. Nordon mevalar (olcha, behi) uchun yuqoriroq (35–40 %) sirop, shirin mevalar (uzum, shaftoli) uchun pastroq (25–30 %) sirop qo‘llaniladi. To‘g‘ri tanlangan konsentratsiya tayyor mahsulotning yoqimli, muvozanatlangan ta’mini ta’minlaydi va standart bo‘yicha quruq moddalar miqdorini kafolatlaydi. Sirop konsentratsiyasini hisoblashda mevadan siropga o‘tadigan suv (mevadagi namlik) va siropdan mevaga o‘tadigan shakar (diffuziya) hisobga olinadi, shunda tayyor mahsulotdagi muvozanat konsentratsiya belgilangan me’yorga mos keladi.
+
+### Korxona quvvatini asoslash
+
+Kunlik 8 tonna quvvat o‘rta hajmli korxonaga xosdir. Bu quvvat bir tomondan mahalliy fermerlar hosilini barqaror sotib olish va mavsumiy mevani samarali qayta ishlash imkonini beradi, ikkinchi tomondan iqtisodiy jihatdan oqlanadigan va boshqarish qulay bo‘lgan ishlab chiqarish hajmidir. Bu quvvatda asosiy uskunalardan bittadan, sterilizatsiya uchun esa ikkita avtoklav yetarli bo‘lib, kapital qo‘yilma va ekspluatatsiya xarajatlari maqbul darajada bo‘ladi. Kelajakda talab oshganda qo‘shimcha smena yoki uskunalar qo‘shish orqali quvvatni oshirish mumkin.
 
 ## 2.2. Texnologik sxemaning yozuvi
 
@@ -347,6 +516,46 @@ Zamonaviy ishlab chiqarishda yuvish, tozalash, maydalash, fasovka va zakatka bos
 
 Xulosa qilib aytganda, meva kompotlarini ishlab chiqarish texnologik jarayoni bir-biri bilan bog‘langan bosqichlardan iborat bo‘lib, har bir bosqich mahsulot sifati va xavfsizligiga bevosita ta’sir ko‘rsatadi. Barcha jarayonlar ilmiy asosda boshqarilganda yuqori sifatli, xavfsiz va raqobatbardosh mahsulot olish mumkin.
 
+
+### Blanshirovkaning nazariy asoslari va ahamiyati
+
+Blanshirovka — mevalarni issiq suv yoki bug‘ bilan qisqa vaqt ishlash bo‘lib, u meva konservalari sifatini ta’minlashda muhim rol o‘ynaydi. Blanshirovkaning asosiy maqsadlari va ularning nazariy izohi:
+
+Fermentlarni faolsizlantirish. Mevalarda polifenoloksidaza va boshqa fermentlar mavjud bo‘lib, ular kislorod ishtirokida mevani qoraytiradi (fermentativ qorayish). Blanshirovka issiqligi bu fermentlarni qaytmas ravishda faolsizlantiradi va qorayishning oldini oladi.
+
+Havoni chiqarish. Meva to‘qimasidagi havo (kislorod) vitaminlarni oksidlaydi va idishda vakuum hosil bo‘lishiga to‘sqinlik qiladi. Blanshirovka to‘qimadagi havoni chiqarib, eksgaustatsiyaga yordam beradi va vitaminlarni saqlaydi.
+
+Teksturani yumshatish va barqarorlashtirish. Blanshirovka mevani biroz yumshatadi, uning hajmini barqarorlashtiradi (idishga zich joylash imkonini beradi) va sterilizatsiyada keskin o‘zgarishlarning oldini oladi.
+
+Mikroorganizmlar sonini kamaytirish. Blanshirovka meva yuzasidagi mikroorganizmlar sonini kamaytirib, sterilizatsiya yukini yengillashtiradi.
+
+Blanshirovka harorati va vaqti meva turiga qarab tanlanadi (qattiq mevalar uchun uzunroq). Haddan ortiq blanshirovka mevani yumshatib, oziqaviy moddalarni yuvib yuborishi mumkin, shuning uchun rejim qat’iy nazorat qilinadi. Blanshirovkadan keyin tez sovitish muhim, aks holda meva qaynashda davom etadi.
+
+### Eksgaustatsiyaning nazariy asoslari
+
+Eksgaustatsiya — idishlardagi havoni chiqarish jarayoni bo‘lib, u mahsulot sifati va saqlanuvchanligi uchun bir necha jihatdan muhim:
+
+Vakuum hosil qilish. Issiq holda berkitilgan idish soviganida ichidagi bug‘ kondensatsiyalanadi va vakuum hosil bo‘ladi. Bu vakuum qopqoqni mahkam tortib turadi (germetiklikni mustahkamlaydi) va sterilizatsiyada idishdagi bosimni kamaytiradi.
+
+Oksidlanishning oldini olish. Idishdan havo (kislorod) chiqarilishi vitaminlar (ayniqsa C vitamini) va boshqa moddalarning oksidlanishini kamaytiradi.
+
+Korroziyani kamaytirish. Metall qopqoqlar bilan ishlanganda kislorodning chiqarilishi korroziyani kamaytiradi.
+
+Sterilizatsiyada bosimni boshqarish. Idishda havo kam bo‘lsa, sterilizatsiya paytida ortiqcha bosim hosil bo‘lmaydi va idish (yoki qopqoq) deformatsiyasi oldi olinadi.
+
+Eksgaustatsiya issiq sirop quyish (issiq fasovka) va idishlarni eksgauster kamerasidan o‘tkazib qizdirish orqali amalga oshiriladi.
+
+### Sterilizatsiyada issiqlik penetratsiyasi
+
+Sterilizatsiyaning samaradorligi issiqlikning idish markaziga (eng sekin qiziydigan nuqtaga) yetib borishiga bog‘liq. Issiqlik penetratsiyasi quyidagi omillarga bog‘liq: idish hajmi va shakli (yirik idishlarda issiqlik sekinroq tarqaladi); mahsulot konsistensiyasi (suyuq siropda issiqlik konveksiya orqali tez, quyuq mahsulotda sekin tarqaladi); mahsulotning boshlang‘ich harorati (issiq fasovka penetratsiyani tezlashtiradi); idish materiali. Shu sababli sterilizatsiya formulasi har bir mahsulot va idish turi uchun alohida belgilanadi. Kompotda sirop suyuq bo‘lgani uchun issiqlik konveksiya orqali nisbatan tez tarqaladi, bu sterilizatsiyani yengillashtiradi.
+
+### Sovitishning ahamiyati
+
+Sterilizatsiyadan keyin tez sovitish bir necha sababga ko‘ra muhim: mevalarning haddan ortiq qaynab, bo‘tqaga aylanishining oldini oladi; rang, ta’m va vitaminlarning issiqlik ta’sirida buzilishini kamaytiradi; termofil mikroorganizmlarning rivojlanishi mumkin bo‘lgan harorat zonasidan tez o‘tishni ta’minlaydi. Sovitish odatda 40 °C atrofigacha olib boriladi — bu haroratda idishdagi qoldiq issiqlik suvni quritadi va korroziyaning oldini oladi. Sovitish suvi toza (mikrobiologik xavfsiz) bo‘lishi kerak, chunki sovish paytida idishdagi vakuum tufayli germetiklik nuqtalaridan suv so‘rilishi mumkin.
+
+### Har bir bosqichda yuzaga keladigan nuqsonlar va ularning oldini olish
+
+Texnologik jarayonning har bir bosqichida nuqsonlar yuzaga kelishi mumkin: tozalashda — yetarli tozalanmaslik (po‘st, danak qoldig‘i); maydalashda — notekis bo‘laklar; blanshirovkada — ortiqcha yumshash yoki yetarsiz fermentsizlantirish; fasovkada — noto‘g‘ri meva-sirop nisbati; eksgaustatsiyada — havoning to‘liq chiqmasligi (qalqib chiqish, korroziya); zakatkada — germetiklik buzilishi; sterilizatsiyada — yetarsiz yoki ortiqcha ishlov; sovitishda — sekin sovitish (qaynab ketish). Har bir bosqichni nazorat qilish va texnologik rejimga rioya qilish bu nuqsonlarning oldini oladi va barqaror sifatli mahsulot olishni ta’minlaydi.
 
 ## 2.3. Xom-ashyo, yordamchi materiallar, chiqindilar, ulardan foydalanish, tayyor mahsulotlarga qo‘yiladigan GOST va texnik shartlar talablari
 
@@ -433,6 +642,42 @@ Konserva mahsulotlari uchun “sanoat sterilligi” — mahsulotda saqlash sharo
 Etiketkada mahsulot nomi va turi, ishlab chiqaruvchi, tarkibi, netto massasi, ishlab chiqarilgan sana va saqlash muddati, saqlash sharoiti, me’yoriy hujjat belgisi va oziqaviy qiymati ko‘rsatiladi.
 
 Xulosa qilib aytganda, xom ashyo va materiallar sifati, chiqindilarni oqilona boshqarish hamda GOST va texnik shartlar talablariga rioya qilish meva konservalari sifati, xavfsizligi va ishlab chiqarish samaradorligini ta’minlovchi asosiy omillardir.
+
+### Chiqindilardan foydalanishning batafsil yo‘nalishlari
+
+Meva konservalari ishlab chiqarishda hosil bo‘ladigan organik chiqindilar qimmatli ikkilamchi xom ashyo bo‘lib, ulardan foydalanishning bir necha istiqbolli yo‘nalishlari mavjud.
+
+Pektin olish. Olma po‘sti va o‘zagi, behi qoldiqlari pektinga juda boy. Pektin — tabiiy jelatinlovchi modda bo‘lib, oziq-ovqat sanoatida (jem, marmelad, sharbat ishlab chiqarishda), farmatsevtikada va boshqa sohalarda keng qo‘llaniladi. Olma po‘stidan pektin ajratib olish iqtisodiy jihatdan juda foydali yo‘nalish bo‘lib, chiqindini yuqori qiymatli mahsulotga aylantiradi.
+
+Danak moyi olish. O‘rik, shaftoli va olcha danaklari mag‘zidan moy ajratib olinadi. O‘rik danagi moyi kosmetika va oziq-ovqat sanoatida qadrlanadi. Danak qobig‘i esa faollashtirilgan ko‘mir ishlab chiqarishda yoki yoqilg‘i sifatida ishlatiladi. Shu tariqa danak chiqindilari to‘liq qayta ishlanadi.
+
+Chorva ozuqasi. Meva qoldiqlari (po‘st, o‘zak, nuqsonli mevalar) yangi yoki quritilgan holda chorva uchun yem-xashak sifatida ishlatiladi. Ular qand va oziqaviy moddalarga boy.
+
+Biogaz va kompost. Organik chiqindilardan anaerob bijg‘itish orqali biogaz olish yoki kompost tayyorlash mumkin. Bu chiqindilarni zararsizlantiradi va energiya yoki o‘g‘it manbai yaratadi.
+
+Sirka va spirt. Ayrim meva qoldiqlari va ortiqcha sharbatdan bijg‘itish orqali sirka yoki spirt olish ham mumkin.
+
+Bu yo‘nalishlar chiqindilarni deyarli to‘liq qayta ishlash (chiqindisiz texnologiyaga yaqinlashish) va qo‘shimcha daromad olish imkonini beradi.
+
+### Oqava suvlarni tozalash bosqichlari
+
+Meva konservalari ishlab chiqarishdagi oqava suvlar yuqori organik yuklamaga ega bo‘lib, ularni bosqichma-bosqich tozalash talab etiladi:
+
+Mexanik (birlamchi) tozalash. Panjaralar, elaklar va tindirgichlar yordamida qattiq zarrachalar (meva qoldiqlari) va cho‘kma ajratiladi. Yog‘ tutgichlar (agar moy bo‘lsa) yog‘ni ushlaydi.
+
+Biologik (ikkilamchi) tozalash. Mikroorganizmlar yordamida eruvchan organik moddalar (qandlar) parchalanadi. Aerotanklar (aerob) yoki anaerob reaktorlar qo‘llaniladi. Bu bosqich oqava suvning organik yuklamasini (BPK, XPK) sezilarli kamaytiradi.
+
+Kimyoviy va yakuniy tozalash. pH me’yorlanadi, zarur bo‘lsa dezinfeksiya qilinadi. Tozalangan suv tabiiy havzaga chiqariladi yoki texnik ehtiyojlar (yuvish, sug‘orish) uchun qayta ishlatiladi.
+
+Oqava suv yukini kamaytirishning eng samarali yo‘li — uni manbada kamaytirish: sirop va sharbat to‘kilishini kamaytirish, suvni qayta ishlatish, CIP rejimlarini optimallashtirishdir.
+
+### Standartlar tizimi haqida qo‘shimcha ma’lumot
+
+Meva konservalari sifati va xavfsizligi xalqaro va milliy standartlar tizimi bilan tartibga solinadi. Xalqaro darajada Codex Alimentarius (FAO/WHO) ayrim meva konservalari uchun standartlar va kislotalangan konservalar uchun gigiyena amaliyoti kodekslarini belgilaydi. Milliy darajada davlat standartlari (GOST/O‘zDSt) va texnik reglamentlar amal qiladi. Bu hujjatlar mahsulotning ta’rifi, tarkibi, sifat va xavfsizlik ko‘rsatkichlari, qadoqlash, markirovka va sinov usullarini qamrab oladi. Korxona o‘z mahsuloti uchun texnik shartlar (TSh) ishlab chiqishi va uni belgilangan tartibda ro‘yxatdan o‘tkazishi mumkin. Standartlar va texnik shartlarga rioya qilish mahsulotning ichki va tashqi bozorda raqobatbardoshligini ta’minlaydi.
+
+### Mahsulot xavfsizligi ko‘rsatkichlari
+
+Tayyor meva konservasida quyidagi xavfsizlik ko‘rsatkichlari nazorat qilinadi: og‘ir metallar (qo‘rg‘oshin, kadmiy, mishyak, simob) miqdori; pestitsidlar qoldig‘i; mikotoksinlar (patulin — ayniqsa olma mahsulotlarida); nitratlar; qalay miqdori (metall idishlar uchun); mikrobiologik ko‘rsatkichlar (sanoat sterilligi). Bu ko‘rsatkichlarning belgilangan me’yor doirasida bo‘lishi mahsulotning inson salomatligi uchun xavfsizligini kafolatlaydi. Patulin (olma va boshqa mevalardagi mog‘or toksini) miqdorini kamaytirish uchun xom ashyoni puxta saralash (chirigan mevalarni ajratish) muhim.
 
 ## 2.4. Moddiy va issiqlik balansi
 
@@ -543,6 +788,50 @@ Kunlik jami issiqlik sarfi ≈3293 MJ (914,7 kVt·soat) ni tashkil etadi. Bug‘
 
 Moddiy va issiqlik balansi hisoblari xom ashyoga ehtiyojni aniqlash, uskunalar quvvatini hisoblash, chiqindilar miqdorini baholash, energiya manbalariga ehtiyojni aniqlash va mahsulot tannarxini hisoblash uchun asos yaratadi. Shu sababli balans hisoblari texnologik loyihalashning ajralmas qismi hisoblanadi.
 
+
+### Soatlik moddiy balans
+
+Smena 8 soat davom etganda asosiy oqimlarning soatlik miqdori quyidagicha taqsimlanadi:
+
+| Oqim | Kunlik, kg | Soatlik, kg/soat |
+| --- | --- | --- |
+| Yangi mevalar | 5176 | 647 |
+| Shakar | 1113 | 139 |
+| Suv (sirop uchun) | 2598 | 325 |
+| Tayyor mahsulot | 8000 | 1000 |
+| Meva chiqindisi | 776 | 97 |
+
+Soatlik balans uskunalar unumdorligini va liniyaning ish ritmini belgilashda asos bo‘lib xizmat qiladi.
+
+### Alohida meva turi bo‘yicha balans namunasi (olma kompoti)
+
+Misol tariqasida faqat olma kompoti ishlab chiqarilganda balansni ko‘rib chiqamiz. Olmani tozalash (po‘st, urug‘ kamerasi) yo‘qotishi taxminan 18 % ni tashkil etadi. Agar kunlik mahsulotda olma ulushi 4400 kg bo‘lsa:
+
+Kerakli xom olma = 4400 / (1 − 0,18) = 4400 / 0,82 ≈ 5366 kg
+
+Olma chiqindisi (po‘st, o‘zak, urug‘ kamerasi) = 5366 − 4400 = 966 kg
+
+Bu chiqindi pektin olish uchun qimmatli xom ashyo hisoblanadi. Turli mevalar uchun tozalash yo‘qotishlari har xil bo‘lib (gilos, uzum uchun kam, shaftoli, behi uchun ko‘proq), umumiy balansda o‘rtacha 15 % qabul qilingan.
+
+### Suv (namlik) balansi
+
+Kompot ishlab chiqarishda suv asosan shakar siropi tarkibida mahsulotga kiradi. Sirop uchun 2598 kg suv ishlatiladi. Bundan tashqari, mevalarni yuvish, blanshirovka, idishlarni yuvish, sterilizatsiya va sovitish uchun ham katta miqdorda suv sarflanadi (texnologik suv). Texnologik suv sarfi (yuvish, sovitish) taxminan kunlik 30–40 m³ ni tashkil etishi mumkin, biroq bu suvning katta qismi tozalanib qayta ishlatilishi mumkin. Suvni tejash va qayta ishlatish ham iqtisodiy, ham ekologik samaradorlikni oshiradi.
+
+### Bug‘ sarfini hisoblash
+
+Issiqlik balansiga ko‘ra kunlik jami issiqlik sarfi ≈3293 MJ ni tashkil etadi. Bu issiqlik bug‘ orqali yetkaziladi. Bug‘ning yashirin issiqligi (100 °C da) ≈2200 kJ/kg deb olinsa, kunlik bug‘ sarfi:
+
+Gbug‘ = 3 293 000 / 2200 ≈ 1497 kg bug‘/kun
+
+Soatlik bug‘ sarfi ≈ 187 kg/soat. Bu ko‘rsatkich bug‘ qozoni (parogenerator) quvvatini tanlashda asos bo‘ladi. Bug‘ qozoni zaxira bilan, soatiga kamida 250–300 kg bug‘ ishlab chiqaradigan quvvatda tanlanadi.
+
+### Elektr energiyasi va sovutish
+
+Issiqlikdan tashqari, korxona elektr energiyasini ham sarflaydi: uskunalar (transportyorlar, mashinalar, nasoslar, aralashtirgichlar) elektr yuritgichlari; yoritish; ventilyatsiya. Sovitish (sterilizatsiyadan keyin) asosan sovuq suv bilan amalga oshiriladi. Umumiy o‘rnatilgan elektr quvvati va sutkalik elektr sarfi uskunalar tavsifiga qarab aniqlanadi va tannarx hisobida e’tiborga olinadi.
+
+### Balans hisoblarini turli quvvatlarga moslashtirish
+
+Keltirilgan balans kunlik 8 tonna quvvat uchun hisoblangan. Korxona quvvatini o‘zgartirganda (masalan, talab oshganda 12 tonnaga) barcha oqimlar mutanosib ravishda qayta hisoblanadi. Balansning chiziqli xususiyati turli quvvatlar uchun xom ashyo, materiallar va energiya ehtiyojini tez baholash imkonini beradi. Bu loyihaning moslashuvchanligini va kelajakda kengaytirish imkoniyatini ta’minlaydi.
 
 ## 2.5. Asosiy texnologik qurilmaning hisoblari
 
@@ -666,6 +955,56 @@ Uskunalarni joylashtirishda texnologik oqimning to‘g‘ri yo‘nalishi, “toz
 
 Xulosa qilib aytganda, uskunalar hisoblari moddiy balansga tayangan holda har bir uskunaning zarur unumdorligi va sonini aniqlash imkonini berdi. Hisoblar shuni ko‘rsatadiki, kuniga 8 tonna quvvatdagi korxona uchun asosan bittadan dastlabki tayyorlov va qadoqlash uskunasi hamda sterilizatsiya uchun 2 ta avtoklav yetarli bo‘ladi.
 
+### Asosiy uskunalarning batafsil tavsifi
+
+Quyida tanlangan asosiy uskunalarning vazifasi va texnik xususiyatlari batafsil keltiriladi.
+
+Yuvish mashinasi. Bo‘ktirgich vanna va purkagichli (dush) qismdan iborat. Mevalar avval vannada bo‘ktirilib, yuza iflosliklari yumshatiladi, so‘ngra purkagich ostida toza suv bilan yuviladi. Yumshoq mevalar uchun kam bosimli, qattiq mevalar uchun shotkali yuvgich ishlatiladi. Korpus zanglamaydigan po‘latdan tayyorlanadi.
+
+Saralash va inspeksiya transportyori. Lentali transportyor bo‘lib, yaxshi yoritilgan. Ishchilar harakatlanuvchi lentadan nuqsonli mevalar va begona aralashmalarni ajratadi. Lenta tezligi sozlanadi.
+
+Tozalash mashinalari. Meva turiga qarab turli mashinalar: olma/nok uchun po‘st archuvchi va o‘zak chiqaruvchi mashinalar; o‘rik/shaftoli uchun danak chiqaruvchi (kostochkovыbivka) mashinalar; shaftoli po‘stini shilish uchun bug‘ yoki ishqorli tozalash. Bu mashinalar mevani minimal yo‘qotish bilan tozalaydi.
+
+Maydalash (kesish) mashinasi. Mevalarni bo‘lak, tilim yoki segmentlarga keskichli disklar yordamida kesadi. Almashtiriladigan pichoqlar turli kesim shakllarini beradi.
+
+Blanshirovka qurilmasi. Uzluksiz (lentali yoki shnekli) blanshirovka qilgich bo‘lib, mevalar issiq suv yoki bug‘ zonasidan o‘tadi. Harorat va o‘tish vaqti sozlanadi. Blanshirovkadan keyin sovitish zonasi mavjud.
+
+Sirop tayyorlash qozoni. Isitish ko‘ylagi (ruboshka) va aralashtirgichga ega zanglamaydigan po‘lat qozon. Shakar suvda eritiladi, qaynatiladi va filtrlanadi. Sirop konsentratsiyasi areometr yoki refraktometr bilan nazorat qilinadi.
+
+To‘ldirish (fasovka) va sirop quyish mashinasi. Mevalarni va issiq siropni idishlarga belgilangan nisbatda dozalaydi. Avtomatik tarozili yoki hajmiy dozalash tizimi bilan jihozlangan.
+
+Eksgauster kamerasi. To‘ldirilgan idishlar issiqlik zonasidan o‘tib, ichidagi havo chiqariladi. Zanjirli transportyor bilan jihozlangan.
+
+Zakatka (yopish) mashinasi. Shisha bankalarni metall qopqoq bilan germetik berkitadi. Zakatka shovi sifati nazorat qilinadi.
+
+Avtoklav. Bosim ostida ishlaydigan sterilizatsiya idishi. Savatlarga joylangan idishlar yuklanadi, suv yoki bug‘ bilan belgilangan harorat va vaqtda sterilizatsiya qilinadi. Manometr, termometr, predoxranitel klapan va avtomatik boshqaruv tizimi bilan jihozlangan.
+
+Etiketkalash mashinasi. Sovitilgan va quritilgan idishlarga etiketka yopishtiradi.
+
+### Yordamchi tizimlar va kommunikatsiyalar
+
+Asosiy texnologik uskunalardan tashqari, korxona quyidagi yordamchi tizimlarni talab qiladi:
+
+Bug‘ ta’minoti (parogenerator). Issiqlik balansiga ko‘ra soatiga ≈187 kg bug‘ kerak; zaxira bilan soatiga 250–300 kg bug‘ ishlab chiqaradigan bug‘ qozoni o‘rnatiladi. Bug‘ blanshirovka, sirop qozoni va avtoklavlarni ta’minlaydi.
+
+Suv ta’minoti va tozalash. Toza ichimlik suvi ta’minoti va oqava suvlarni tozalash tizimi (mexanik, biologik) zarur.
+
+Sovutish tizimi. Sterilizatsiyadan keyin idishlarni sovitish uchun sovuq suv ta’minoti; tayyor mahsulot omborini salqin saqlash uchun (zarur bo‘lsa) sovutish.
+
+Elektr ta’minoti. Uskunalar, yoritish va ventilyatsiya uchun. Zaxira manba (generator) tavsiya etiladi.
+
+CIP yuvish tizimi. Uskunalar va quvurlarni demontajsiz yuvish uchun tanklar, nasoslar, isitgich va dozatorlardan iborat stansiya.
+
+Siqilgan havo. Avtomatik uskunalar va pnevmatik mexanizmlar uchun kompressor stansiyasi.
+
+### Ishlab chiqarish maydoni va zonalar
+
+Korxona maydoni quyidagi zonalarga bo‘linadi: xom ashyoni qabul qilish va saqlash zonasi; dastlabki tayyorlov (yuvish, tozalash, maydalash) zonasi — “iflos” zona; issiqlik ishlovi (blanshirovka, sirop, fasovka, sterilizatsiya) zonasi; tayyor mahsulot (etiketkalash, qadoqlash, ombor) zonasi — “toza” zona; yordamchi binolar (bug‘ qozoni, omborlar, laboratoriya, ma’muriy xonalar, sanitariya-maishiy xonalar). Zonalarning to‘g‘ri ajratilishi va texnologik oqimning bir yo‘nalishda (xom ashyodan tayyor mahsulotga) tashkil etilishi sanitariya xavfsizligini ta’minlaydi va xom ashyo bilan tayyor mahsulotning aralashishining oldini oladi.
+
+### Uskunalardan foydalanish samaradorligi
+
+Uskunalardan samarali foydalanish uchun ularning unumdorligi o‘zaro muvofiqlashtiriladi (liniya “to‘g‘onlar”siz ishlashi uchun), profilaktik texnik xizmat ko‘rsatish o‘z vaqtida bajariladi va xodimlar to‘g‘ri ekspluatatsiyaga o‘rgatiladi. Uskunalarning yuklanish koeffitsiyenti va ish ritmi nazorat qilinadi. Bu mehnat unumdorligini oshiradi, yo‘qotishlarni kamaytiradi va uskunalarning uzoq muddat xizmat qilishini ta’minlaydi.
+
 # III-BOB. MEHNAT MUHOFAZASI
 
 Mehnat muhofazasi — ishlab chiqarish jarayonida xodimlarning hayoti, sog‘lig‘i va mehnat qobiliyatini saqlashga qaratilgan huquqiy, ijtimoiy-iqtisodiy, tashkiliy-texnik, sanitariya-gigiyena va davolash-profilaktika tadbirlari tizimidir. Meva konservalari ishlab chiqarish korxonasida mehnat muhofazasiga alohida e’tibor qaratiladi, chunki bu yerda xodimlar o‘tkir kesuvchi uskunalar, issiqlik manbalari (blanshirovka, sirop qozoni, sterilizatsiya), bug‘ va issiq suv, bosim ostida ishlaydigan avtoklavlar va elektr jihozlar bilan ishlaydi.
@@ -709,6 +1048,28 @@ Korxonada yong‘inga qarshi vositalar o‘rnatiladi, evakuatsiya yo‘llari bel
 Xodimlar maxsus kiyim va bosh kiyim, sirpanmaydigan poyabzal, himoya qo‘lqoplari (kesilishdan va issiqlikdan), ko‘zoynak (kimyoviy moddalar bilan ishlashda) va issiqlikdan himoya vositalari bilan ta’minlanadi.
 
 Xulosa qilib aytganda, meva konservalari ishlab chiqarish korxonasida mehnat muhofazasi xodimlar hayoti va sog‘lig‘ini hamda mahsulot xavfsizligini ta’minlashga qaratilgan kompleks tadbirlardan iborat. Ayniqsa, avtoklavlar va issiqlik manbalari bilan ishlashda ehtiyotkorlik talab etiladi.
+
+## Ishlab chiqarish sanitariyasi va mikroiqlim normalari
+
+Oziq-ovqat korxonasida ishlab chiqarish sanitariyasi ham xodimlar salomatligi, ham mahsulot xavfsizligi uchun muhim. Ish xonalarining mikroiqlimi (harorat, nisbiy namlik, havo harakati tezligi) sanitariya normalariga mos bo‘lishi kerak. Issiqlik ishlovi zonalarida (blanshirovka, sterilizatsiya, sirop qozoni) harorat va namlik yuqori bo‘lishi mumkin, shuning uchun bu zonalarda samarali shamollatish (ventilyatsiya) va havoni tortib chiqarish tizimlari o‘rnatiladi. Ortiqcha issiqlik va bug‘ tabiiy va majburiy ventilyatsiya orqali chiqariladi.
+
+Ish joylarining yoritilishi yetarli bo‘lishi kerak, ayniqsa saralash va inspeksiya joylarida sifatni to‘g‘ri baholash uchun yaxshi yoritish zarur. Tabiiy va sun’iy yoritish me’yorlari belgilanadi. Shovqin darajasi ruxsat etilgan chegaradan oshmasligi lozim; shovqinli uskunalar yaqinida shaxsiy himoya vositalari (quloqchin) qo‘llaniladi yoki shovqinni kamaytirish chora-tadbirlari ko‘riladi.
+
+## Elektr xavfsizligi tadbirlari
+
+Ho‘l muhitda elektr xavfi yuqori bo‘lgani uchun quyidagi tadbirlar ko‘riladi: barcha elektr jihozlari ishonchli yerga ulanadi (zazemleniye); himoya o‘chirish moslamalari (UZO) o‘rnatiladi; elektr simlari va jihozlarining izolyatsiyasi muntazam tekshiriladi; ho‘l zonalarda past kuchlanishli yoritish qo‘llaniladi; elektr shchitlari va ulagichlar namlikdan himoyalangan bajarilishda bo‘ladi; elektr uskunalari bilan ishlovchi xodimlar tegishli malaka guruhiga ega bo‘ladi. Elektr jihozlarini ta’mirlash faqat tokdan uzilgan holda, mas’ul shaxs nazoratida bajariladi.
+
+## Avtoklavlar bilan ishlash xavfsizligi
+
+Avtoklavlar bosim ostida ishlaydigan idishlar bo‘lib, ular yuqori xavf manbai hisoblanadi va alohida nazoratga olinadi. Ular bilan ishlashda quyidagi qoidalarga rioya qilinadi: avtoklavlar ro‘yxatdan o‘tkaziladi va davriy texnik ko‘rik hamda sinovdan o‘tkaziladi; manometr, termometr va predoxranitel klapanlar soz holatda bo‘lishi tekshiriladi; qopqoq to‘liq va to‘g‘ri yopilgani tekshirilmasdan bosim berilmaydi; bosim ostida qopqoqni ochish qat’iyan man etiladi; ish bosimi va harorat belgilangan me’yordan oshirilmaydi; avtoklav operatorlari maxsus o‘qitiladi va attestatsiyadan o‘tadi. Bu qoidalarga rioya qilish portlash va og‘ir baxtsiz hodisalarning oldini oladi.
+
+## Birinchi tibbiy yordam va profilaktika
+
+Korxonada birinchi tibbiy yordam ko‘rsatish uchun zarur sharoit yaratiladi: dorixona shkaflari (aptechka) ish joylariga o‘rnatiladi; xodimlar birinchi yordam ko‘rsatish asoslariga o‘rgatiladi; kuyish, kesilish va boshqa jarohatlar uchun zarur vositalar bo‘ladi; tibbiy xizmat bilan aloqa ta’minlanadi. Xodimlar davriy tibbiy ko‘rikdan o‘tkaziladi. Kasb kasalliklarining oldini olish uchun ish va dam olish rejimi to‘g‘ri tashkil etiladi, og‘ir jismoniy ishlar mexanizatsiyalashtiriladi.
+
+## Baxtsiz hodisalarni hisobga olish va tahlil qilish
+
+Korxonada yuzaga keladigan baxtsiz hodisalar belgilangan tartibda qayd etiladi, tergov qilinadi va tahlil qilinadi. Tahlil natijasida hodisaning sabablari aniqlanadi va ularning takrorlanishining oldini olish bo‘yicha chora-tadbirlar ishlab chiqiladi. Bu profilaktika ishining muhim qismi bo‘lib, mehnat sharoitlarini doimiy yaxshilashga xizmat qiladi.
 
 # IV-BOB. ATROF-MUHIT MUHOFAZASI
 
@@ -755,6 +1116,34 @@ Bug‘ va hidlarning oldini olish uchun samarali ventilyatsiya tizimi o‘rnatil
 Chiqindilarni qayta ishlash va resurslarni tejash ekologik va iqtisodiy samara beradi: po‘stdan pektin, danakdan moy olish qo‘shimcha qiymat yaratadi; issiqlik regeneratsiyasi va suvni qayta ishlatish xarajatlarni kamaytiradi. Shu tariqa atrof-muhit muhofazasi ham ekologik, ham iqtisodiy jihatdan foydalidir.
 
 Xulosa qilib aytganda, meva konservalari ishlab chiqarishda asosiy ekologik masalalar — qattiq organik chiqindilar va oqava suvlardir. Chiqindilarni qayta ishlash (pektin, danak moyi), oqava suvlarni tozalash va resurslarni tejash orqali korxonaning atrof-muhitga salbiy ta’sirini sezilarli kamaytirish mumkin.
+
+## Oqava suvlarni tozalashning batafsil tizimi
+
+Meva konservalari ishlab chiqarishdagi oqava suvlar yuqori organik yuklamaga (BPK va XPK ko‘rsatkichlari yuqori) ega bo‘lib, ularni ko‘p bosqichli tozalash talab etiladi. To‘liq tozalash tizimi quyidagi bosqichlardan iborat:
+
+Birlamchi (mexanik) tozalash. Panjaralar va elaklar yirik qattiq zarrachalarni (meva qoldiqlari, danak parchalari) ushlaydi. Tindirgichlarda osilgan zarrachalar cho‘ktiriladi. Yog‘ tutgichlar moy va yog‘ moddalarni ajratadi (agar danak moyi ishlab chiqarilsa). Bu bosqich oqava suvdagi qattiq moddalarni sezilarli kamaytiradi.
+
+Ikkilamchi (biologik) tozalash. Eruvchan organik moddalar (qandlar, kislotalar) mikroorganizmlar yordamida parchalanadi. Aerob usulda (aerotanklar, biofiltrlar) havo beriladi va aerob bakteriyalar organik moddalarni oksidlaydi. Anaerob usulda esa havosiz sharoitda organik moddalar parchalanib, biogaz hosil bo‘ladi. Biologik tozalash oqava suvning organik yuklamasini katta darajada kamaytiradi.
+
+Uchlamchi (yakuniy) tozalash. pH me’yorlanadi, zarur bo‘lsa dezinfeksiya (zararsizlantirish) qilinadi va qo‘shimcha filtrlash amalga oshiriladi. Tozalangan suv me’yorlarga javob berganda tabiiy havzaga chiqariladi yoki texnik ehtiyojlar uchun qayta ishlatiladi.
+
+## Aylanma (resurs tejovchi) iqtisodiyot prinsipi
+
+Zamonaviy ekologik yondashuvda korxona aylanma iqtisodiyot prinsipiga intiladi, ya’ni chiqindilar imkon qadar to‘liq qayta ishlanadi va resurslar takroran ishlatiladi. Bu yondashuvda: organik chiqindilar (po‘st, o‘zak, danak) pektin, danak moyi, ozuqa va biogazga qayta ishlanadi; suv tozalanib qayta ishlatiladi; issiqlik energiyasi regeneratsiya qilinadi; qadoqlash chiqindilari (shisha, metall, qog‘oz) ikkilamchi xom ashyoga topshiriladi. Aylanma iqtisodiyot ham ekologik yukni kamaytiradi, ham qo‘shimcha iqtisodiy samara beradi.
+
+## Energiyani tejash va energiya auditi
+
+Meva konservalari ishlab chiqarishda issiqlik energiyasi (bug‘) asosiy energiya turi bo‘lib, uni tejash ekologik va iqtisodiy jihatdan muhim. Energiya tejash tadbirlari: sterilizatsiya va blanshirovka issiqligini regeneratsiya qilish (issiq suvni va kondensatni qayta ishlatish); bug‘ quvurlari va uskunalarni issiqlik izolyatsiyasi bilan jihozlash; sterilizatsiya rejimini optimallashtirish (ortiqcha ishlovdan qochish); bug‘ qozonining FIK ni oshirish; energiya sarfini hisobga olish va monitoring qilish (energiya auditi). Energiya auditi korxonadagi energiya sarfini tahlil qilib, isrofgarchilik manbalarini aniqlash va tejash imkoniyatlarini belgilash imkonini beradi.
+
+## Havoni muhofaza qilish va ekologik monitoring
+
+Meva konservalari ishlab chiqarishda havoga chiqariladigan asosiy emissiyalar — bug‘ va issiqlikdir; zararli gaz emissiyalari kam. Bug‘ va hidlarni boshqarish uchun samarali ventilyatsiya tizimi o‘rnatiladi. Bug‘ qozoni yoqilg‘i yoqqanda hosil bo‘ladigan tutun gazlari belgilangan me’yorlarga mos bo‘lishi nazorat qilinadi.
+
+Korxonada ekologik monitoring tizimi yo‘lga qo‘yiladi: oqava suv sifati (BPK, XPK, pH, osilgan moddalar) muntazam tekshiriladi; chiqindilar miqdori va ular bilan ishlash hisobga olinadi; suv va energiya sarfi nazorat qilinadi. Ekologik monitoring korxonaning atrof-muhitga ta’sirini baholash va belgilangan me’yorlarga rioya qilishni ta’minlash imkonini beradi.
+
+## Ekologik talablarga rioya qilishning ahamiyati
+
+Ekologik talablarga rioya qilish nafaqat qonun talabi, balki korxonaning barqaror rivojlanishi va ijtimoiy mas’uliyatining bir qismidir. Atrof-muhitni muhofaza qilish, chiqindilarni qayta ishlash va resurslarni tejash korxonaning ijobiy imijini shakllantiradi, jarima va sanksiyalardan himoya qiladi hamda uzoq muddatli iqtisodiy samaradorlikni ta’minlaydi. Zamonaviy iste’molchi va xalqaro bozor ekologik mas’uliyatli ishlab chiqarishni qadrlaydi, bu esa eksport imkoniyatlarini ham kengaytiradi.
 
 # V-BOB. IQTISODIY QISM
 
@@ -856,6 +1245,48 @@ Investitsiyaning qoplanish muddati: T = 9000 / 4250 ≈ 2,12 yil
 ## Iqtisodiy samaradorlik xulosasi
 
 Keltirilgan hisoblar shuni ko‘rsatadiki, kunlik quvvati 8 tonna bo‘lgan meva konservalari ishlab chiqarish korxonasini tashkil etish iqtisodiy jihatdan maqsadga muvofiqdir. Loyihaning rentabelligi ≈29,4 %, investitsiyaning qoplanish muddati esa ≈2,1 yilni tashkil etadi. Eng katta xarajat moddalari xom ashyo va qadoqlash materiallari bo‘lgani uchun iqtisodiy samaradorlikni oshirish yo‘nalishlari: xom ashyoni mavsumda arzon narxda zaxiralash; qadoqlash xarajatlarini optimallashtirish; chiqindilardan (pektin, danak moyi) qo‘shimcha daromad olish; energiya va suvni tejash; mahsulot assortimentini kengaytirish va eksportga chiqishdir.
+
+## Mahsulot birligi (banka) bo‘yicha iqtisodiy ko‘rsatkichlar
+
+Bir shartli banka (0,5 kg) uchun iqtisodiy ko‘rsatkichlarni hisoblaymiz. Bu ko‘rsatkichlar mahsulotning bozordagi raqobatbardoshligini baholashda qulay.
+
+| Ko‘rsatkich | Qiymati (1 banka uchun) |
+| --- | --- |
+| Tannarx | 4250 so‘m |
+| Sotuv narxi (ulgurji) | 5500 so‘m |
+| Yalpi foyda | 1250 so‘m |
+| Rentabellik | ≈29,4 % |
+
+Bir banka mahsulotdan ≈1250 so‘m yalpi foyda olinadi. Yiliga 4 mln banka ishlab chiqarilganda umumiy yalpi foyda 5000 mln so‘mni tashkil etadi.
+
+## Zararsizlik nuqtasi (break-even) tahlili
+
+Zararsizlik nuqtasi — korxona zarar ham, foyda ham ko‘rmaydigan, ya’ni daromad jami xarajatlarga teng bo‘ladigan ishlab chiqarish hajmidir. Uni hisoblash uchun xarajatlar doimiy (amortizatsiya, ma’muriy ish haqi, ijara) va o‘zgaruvchan (xom ashyo, qadoqlash, energiya, ishlab chiqarish ish haqi) qismlarga ajratiladi.
+
+Taxminiy hisobda yillik doimiy xarajatlar (amortizatsiya, ma’muriy va boshqa shartli-doimiy xarajatlar) ≈2300 mln so‘m, o‘zgaruvchan xarajatlar esa ≈14 700 mln so‘m (bir kg mahsulotga ≈7350 so‘m) deb olinadi. Bir kg mahsulot sotuv narxi 11 000 so‘m bo‘lganda, bir kg dan tushadigan marjinal daromad:
+
+Marjinal daromad = 11 000 − 7350 = 3650 so‘m/kg
+
+Zararsizlik nuqtasi (hajm bo‘yicha):
+Qzararsizlik = Doimiy xarajatlar / Marjinal daromad = 2 300 000 000 / 3650 ≈ 630 000 kg
+
+Demak, korxona yiliga taxminan 630 tonna (loyiha quvvatining ≈31,5 %) mahsulot sotганда zararsizlik nuqtasiga yetadi. Bu loyiha quvvatidan ancha past bo‘lib, loyihaning iqtisodiy barqarorligini va xavf-xatarga chidamliligini ko‘rsatadi. Quvvatning qolgan qismi sof foyda keltiradi.
+
+## Sezgirlik (sensitivlik) tahlili
+
+Loyihaning iqtisodiy ko‘rsatkichlari bozor sharoitlari o‘zgarishiga qanchalik sezgirligini baholash uchun sezgirlik tahlili o‘tkaziladi. Asosiy o‘zgaruvchilar — xom ashyo narxi, sotuv narxi va quvvatdan foydalanish darajasidir.
+
+Agar xom ashyo (meva) narxi 10 % ga oshsa, xom ashyo xarajati ≈518 mln so‘mga, yillik tannarx esa shunga mos oshadi va foyda taxminan shu miqdorda kamayadi. Agar sotuv narxi 10 % ga oshsa (11 000 → 12 100 so‘m/kg), yillik daromad 2200 mln so‘mga oshib, foyda sezilarli ko‘payadi. Agar quvvatdan foydalanish 80 % ga tushsa (mavsumiy xom ashyo cheklovi tufayli), ishlab chiqarish va foyda mutanosib kamayadi, ammo zararsizlik nuqtasi pastligi tufayli korxona baribir foydada qoladi.
+
+Sezgirlik tahlili shuni ko‘rsatadiki, loyiha bozor o‘zgarishlariga nisbatan barqaror, eng katta ta’sir esa sotuv narxi va xom ashyo narxiga bog‘liq. Shu sababli xom ashyoni mavsumda arzon narxda zaxiralash va mahsulot sifatini oshirib yuqori narxda sotish iqtisodiy samaradorlikni oshiruvchi asosiy omillardir.
+
+## Investitsiya samaradorligining qo‘shimcha ko‘rsatkichlari
+
+Loyiha samaradorligini to‘liqroq baholash uchun, qoplanish muddatidan tashqari, quyidagi ko‘rsatkichlar ham e’tiborga olinadi: investitsiya rentabelligi (ROI) — yillik sof foydaning kapital qo‘yilmalarga nisbati, bu loyihada ≈47 % (4250/9000) ni tashkil etadi, bu yuqori ko‘rsatkich; investitsiyaning sof joriy qiymati (NPV) va ichki rentabellik normasi (IRR) kabi diskontlangan ko‘rsatkichlar uzoq muddatli baholashda qo‘llaniladi va pul oqimlarini vaqt omili bilan hisobga oladi. Mazkur loyihada qoplanish muddati qisqa (≈2,1 yil) va investitsiya rentabelligi yuqori bo‘lgani uchun loyiha investitsiya jihatdan jozibador hisoblanadi.
+
+## Iqtisodiy samaradorlikni oshirish yo‘nalishlari
+
+Loyihaning iqtisodiy samaradorligini yanada oshirish uchun quyidagi yo‘nalishlar tavsiya etiladi: xom ashyoni mavsumda eng arzon narxda zaxiralash va to‘g‘ridan-to‘g‘ri fermerlardan sotib olish; qadoqlash xarajatlarini (eng katta xarajat moddalaridan biri) optimallashtirish, mahalliy idish yetkazib beruvchilar bilan ishlash; chiqindilardan (pektin, danak moyi) qo‘shimcha mahsulot va daromad olish; energiya va suvni tejash; mahsulot assortimentini kengaytirish (assorti, parhez, bolalar uchun kompotlar); eksport bozorlariga chiqib, yuqori narxda sotish; brend yaratish va marketingni kuchaytirish. Bu chora-tadbirlar tannarxni pasaytirib, foyda va rentabellikni oshiradi.
 
 # XULOSA
 
