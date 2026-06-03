@@ -71,6 +71,26 @@ Loyiha yangi ish o‘rinlari yaratadi, mavsumiy bandlikni ta’minlaydi va mahal
 Yuqoridagilardan kelib chiqib, mahalliy resurslardan foydalanib kunlik 9 tonna ekologik toza konservalangan mahsulotlar ishlab chiqarish liniyasini tashkil etish texnik jihatdan asoslangan, iqtisodiy jihatdan samarali, ijtimoiy jihatdan muhim va ekologik jihatdan maqbul loyiha hisoblanadi. Shu sababli ushbu mavzu dolzarb va ilmiy-amaliy ahamiyatga ega.
 
 
+### Ekologik toza dehqonchilik va organik mahsulot tushunchasi
+
+Ekologik toza konservalangan mahsulot ishlab chiqarish ekologik toza (organik) xom ashyodan boshlanadi. Ekologik toza dehqonchilik — bu sintetik mineral o‘g‘itlar, pestitsidlar, gerbitsidlar va o‘sishni rag‘batlantiruvchi kimyoviy moddalardan minimal foydalanadigan yoki umuman foydalanmaydigan, tabiiy usullarga (organik o‘g‘itlar, almashlab ekish, biologik himoya) tayanadigan dehqonchilik tizimidir. Bunday usulda yetishtirilgan mahsulotlar tarkibida zararli kimyoviy qoldiqlar minimal bo‘ladi va ular inson salomatligi hamda atrof-muhit uchun xavfsiz hisoblanadi. Mahalliy fermer xo‘jaliklari bilan ekologik talablar asosida shartnoma tuzish va xom ashyo manbasini nazorat qilish ekologik toza mahsulot ishlab chiqarishning birinchi va eng muhim sharti hisoblanadi.
+
+### Tabiiy konservalashning tarixiy va ilmiy asoslari
+
+Oziq-ovqatni sun’iy kimyoviy konservantlarsiz, tabiiy usulda saqlash insoniyatning qadimiy an’anasidir. Issiqlik bilan konservalash usuli (Apper usuli) XIX asr boshida kashf etilgan bo‘lib, u aynan tabiiy konservalashga — ya’ni mahsulotni qizdirib, germetik berkitib saqlashga asoslanadi. Lui Paster mikroorganizmlarning roli va ularni issiqlik bilan zararsizlantirish mumkinligini ilmiy isbotlagach, tabiiy konservalashning ilmiy asoslari shakllandi. Zamonaviy ekologik toza ishlab chiqarish ham aynan shu tabiiy prinsipga — issiqlik, kislotalilik va germetiklikka tayanadi, sun’iy konservantlardan voz kechadi. Bu yondashuv mahsulotni tabiiy va xavfsiz qiladi.
+
+### Ekologik va “toza yorliq” mahsulotlar bozori
+
+So‘nggi o‘n yilliklarda dunyoda ekologik toza, organik va “toza yorliq” (clean label) mahsulotlar bozori jadal o‘smoqda. “Toza yorliq” tamoyili — mahsulot tarkibida iste’molchiga tushunarli, tabiiy ingredientlar bo‘lishi va sun’iy qo‘shimchalar (E-kodli konservantlar, bo‘yoqlar, aromatizatorlar)ning bo‘lmasligini anglatadi. Iste’molchilar sog‘liq va atrof-muhit haqida tobora ko‘proq qayg‘urgani sababli bunday mahsulotlar uchun yuqori narx to‘lashga tayyor. Bu mahalliy, ekologik toza xom ashyodan tabiiy mahsulot ishlab chiqaruvchi korxonalar uchun katta bozor imkoniyati yaratadi. O‘zbekistonning toza tabiiy sharoitida yetishtirilgan mevalar va sabzavotlar bunday mahsulotlar uchun a’lo xom ashyo bo‘lib, ichki va eksport bozorlarida raqobatbardosh.
+
+### Konserva mahsulotlarining mikrobiologik buzilishi
+
+Sun’iy konservantsiz ishlab chiqarishda mikrobiologik xavfsizlikni faqat tabiiy omillar (issiqlik, kislotalilik, germetiklik) ta’minlagani uchun mikroorganizmlar va ular keltirib chiqaradigan buzilishlarni bilish ayniqsa muhim. Asosiy buzilish turlari: botulizm (Clostridium botulinum — past kislotali, anaerob muhitda zaharli toksin hosil qiladi; kislotalash bilan oldi olinadi); yassi-nordon buzilish (termofil bakteriyalar mahsulotni nordonlashtiradi); bombaj (gaz hosil qiluvchi mikroorganizmlar idishni shishiradi); mog‘or va achitqilar (germetiklik buzilganda). Bu buzilishlarning oldi xom ashyo gigiyenasi, to‘g‘ri kislotalilik (pH < 4,5), yetarli sterilizatsiya va ishonchli germetiklik bilan olinadi.
+
+### Ekologik sertifikatlash tizimlari
+
+Mahsulotning ekologik tozaligini rasman tasdiqlash uchun sertifikatlashtirish tizimlari mavjud. Bularga organik mahsulot sertifikatlari (xalqaro va milliy), oziq-ovqat xavfsizligi tizimlari (HACCP, ISO 22000), sifat menejmenti tizimlari (ISO 9001) va ekologik menejment tizimlari (ISO 14001) kiradi. Sertifikat mahsulotning belgilangan ekologik va sifat talablariga muvofiqligini tasdiqlaydi, iste’molchi ishonchini oshiradi va eksport imkoniyatlarini kengaytiradi. Korxona o‘z faoliyatining boshidanoq sertifikatlash talablarini hisobga olgan holda ishlab chiqarishni tashkil etishi maqsadga muvofiq.
+
 ## 1.2. Xom ashyo va tayyor mahsulot tavsifi
 
 Ekologik toza konservalangan mahsulotlar ishlab chiqarishda xom ashyo va yordamchi materiallar sifati hamda ekologik tozaligi tayyor mahsulotning asosiy ko‘rsatkichlarini belgilovchi eng muhim omillardan biridir. Bu yo‘nalishning o‘ziga xosligi shundaki, xom ashyo nafaqat sifatli, balki ekologik toza (kam pestitsidli, og‘ir metallar va nitratlardan xoli) bo‘lishi talab etiladi.
@@ -136,6 +156,46 @@ Ekologik toza konservalangan mahsulot xom ashyoning vitaminlari, mineral moddala
 
 Xom ashyoning sifati va ekologik tozaligi tayyor mahsulotning barcha ko‘rsatkichlariga, jumladan xavfsizlik ko‘rsatkichlariga bevosita ta’sir qiladi. Ekologik toza, yangi va sifatli xom ashyo ishlatilganda mahsulot yuqori sifatli, xavfsiz va tabiiy bo‘ladi. Sun’iy konservantlar ishlatilmagani uchun xom ashyo tozaligi va texnologik rejimga (ayniqsa sterilizatsiya va germetiklikka) qat’iy rioya qilish alohida ahamiyat kasb etadi.
 
+### Asosiy mahalliy xom ashyolarning batafsil tavsifi
+
+Korxona mahalliy resurslarga tayanib, mavsumiy xom ashyoga moslashgan holda ishlaydi. Quyida asosiy xom ashyolar va ularning ekologik-texnologik xususiyatlari batafsil ko‘rib chiqiladi.
+
+Pomidor. Tabiiy konservalar (tabiiy pomidor, pomidor sharbati va pyuresi, sabzavotli aralashmalar)ning asosiy xom ashyosi. Pomidor tabiatan kislotali (pH 4,0–4,5) bo‘lgani uchun tabiiy konservalashga juda mos va sun’iy konservant talab qilmaydi. Tarkibida likopin (kuchli antioksidant), C vitamini, kaliy mavjud. Ekologik toza pomidor uchun pestitsidsiz yoki minimal pestitsidli, yetilgan, eti zich navlar tanlanadi.
+
+Bodring. Tabiiy va tuzlangan sabzavot konservalari uchun. Yangi, eti zich, urug‘i shakllanmagan bodringlar ishlatiladi. Bodring qarsillaydigan tekstura beradi.
+
+Bulg‘or qalampiri. Yorqin rang, C vitamini va aromat beradi. Tabiiy konservalar va aralashmalarda ishlatiladi. Go‘shtli devorli, yetilgan qalampir tanlanadi.
+
+Sabzi va piyoz. Aralash sabzavot konservalari uchun. Sabzi karotin (A provitamini) va shirinlik, piyoz esa aromat va tabiiy antimikrob ta’sir beradi. Ular uzoq saqlanadigani uchun mavsumdan tashqari davrda ham ishlatiladi.
+
+Mevalar (olma, o‘rik, shaftoli, uzum). Tabiiy meva konservalari va kompotlari uchun. Tabiatan kislotali bo‘lgani uchun tabiiy konservalashga mos. Ekologik toza, yetilgan, eti zich mevalar tanlanadi.
+
+### Xom ashyoning kimyoviy tarkibi va ekologik ko‘rsatkichlari
+
+Asosiy xom ashyolarning o‘rtacha tarkibi va ekologik nazorat ko‘rsatkichlari quyidagi jadvalda keltirilgan:
+
+| Xom ashyo | Suv, % | Qandlar, % | Kislotalik (pH) | Ekologik nazorat |
+| --- | --- | --- | --- | --- |
+| Pomidor | 93–95 | 2,5–4,0 | 4,0–4,5 | Pestitsid, nitrat |
+| Bodring | 95–96 | 1,5–2,5 | 5,0–5,5 | Pestitsid, nitrat |
+| Qalampir | 90–92 | 4,0–5,5 | 4,8–5,2 | Pestitsid |
+| Olma | 84–88 | 9–12 | 3,3–3,9 | Pestitsid, patulin |
+| O‘rik | 84–86 | 8–11 | 3,3–4,0 | Pestitsid |
+
+Har bir partiya xom ashyo qabul qilinishida ekologik xavfsizlik ko‘rsatkichlari (pestitsidlar, nitratlar, og‘ir metallar) nazorat qilinadi, bu ekologik toza mahsulotning asosiy kafolati hisoblanadi.
+
+### Tabiiy quyma va yordamchi materiallar
+
+Ekologik toza mahsulotda quyma (zalivka) ham tabiiy bo‘lishi shart. Sabzavotlar uchun engil tuz eritmasi (1,5–2,5 % toza osh tuzi), mevalar uchun shakar siropi (toza shakar) yoki mevaning o‘z sharbati ishlatiladi. Kislotaliligi past mahsulotlar uchun tabiiy limon kislotasi qo‘shiladi. Ta’m berish uchun tabiiy ziravorlar va ko‘katlar (ukrop, sarimsoq, qora murch, lavr bargi) ishlatiladi. Hech qanday sintetik konservant, bo‘yoq yoki aromatizator qo‘shilmaydi — bu ekologik toza mahsulotning asosiy farqlovchi xususiyatidir.
+
+### Ekologik toza qadoqlash materiallari
+
+Ekologik toza mahsulot uchun qadoqlash ham ekologik bo‘lishi maqsadga muvofiq. Shisha banka eng ekologik idish hisoblanadi, chunki u inert (mahsulot bilan reaksiyaga kirmaydi), qayta ishlatsa va to‘liq qayta ishlasa bo‘ladigan materialdir. Metall qopqoqlar kislotabardosh ichki qoplamaga ega bo‘lishi kerak. Etiketka va qutilar qayta ishlanadigan qog‘oz/kartondan tanlanadi. Imkon qadar qadoqlash hajmini optimallashtirish va materiallarni tejash ekologik tamoyilga mos keladi.
+
+### Tayyor mahsulot assortimenti
+
+Korxona mavsumiy xom ashyoga qarab quyidagi ekologik toza mahsulotlarni ishlab chiqaradi: tabiiy pomidor konservasi (butun yoki bo‘lak, o‘z sharbatida); tabiiy aralash sabzavot konservalari; meva kompotlari; tabiiy sabzavot va meva sharbatlari; sabzavot va meva pyuresi. Assortiment mavsumga moslashtirilib, yil davomida uskunalardan to‘liq foydalanish va bozorni doimiy ta’minlash imkonini beradi.
+
 ## 1.3. Mahsulot ishlab chiqarish yoki uni qayta ishlashning sanoat usullari
 
 Ekologik toza konservalangan mahsulotlarni ishlab chiqarish oziq-ovqat sanoatining meva-sabzavotlarni qayta ishlash tarmog‘iga mansub bo‘lib, unda mexanik, issiqlik (termik) va fizik-kimyoviy jarayonlar uyg‘unlashgan holda amalga oshiriladi. Bu yo‘nalishning o‘ziga xosligi shundaki, butun ishlab chiqarish jarayoni ekologik tamoyillarga (tabiiy konservalash, resurslarni tejash, chiqindisizlik) asoslanadi.
@@ -200,6 +260,26 @@ Afzalliklari: yuqori va barqaror sifat; mikrobiologik xavfsizlik; ekologik tozal
 Xulosa qilib aytganda, ekologik toza konservalangan mahsulotlarni ishlab chiqarishning sanoat usullari mahalliy resurslarga va tabiiy konservalash usullariga tayanib, yuqori sifatli, xavfsiz va ekologik toza mahsulot olish imkonini beradi. Kuniga 9 tonna quvvatli liniyani tashkil etish iqtisodiy, texnik va ekologik jihatdan samarali hisoblanadi.
 
 
+### Sterilizatsiya uskunalarining turlari
+
+Sterilizatsiya — sun’iy konservantsiz ishlab chiqarishda mahsulot xavfsizligini ta’minlovchi asosiy bosqich bo‘lgani uchun sterilizatorlar alohida ahamiyatga ega. Asosiy turlari: vertikal avtoklavlar (savatlarga joylangan idishlar partiyali sterilizatsiya qilinadi, o‘rta quvvat uchun maqbul); gorizontal avtoklavlar (yirik partiyalar uchun); rotorli avtoklavlar (idishlar aylantirilib, issiqlik tez tarqaladi); uzluksiz sterilizatorlar va tunnel pasterizatorlari (yirik korxonalar uchun). Kunlik 9 tonna quvvat uchun vertikal avtoklavlar iqtisodiy va texnik jihatdan eng maqbul yechim hisoblanadi.
+
+### Ekologik toza mahsulotning nuqsonlari va ularning oldini olish
+
+Sun’iy konservant ishlatilmagani uchun nuqsonlarning oldini olish uchun texnologik rejimga ayniqsa qat’iy rioya qilinadi. Asosiy nuqsonlar: bombaj (yetarsiz sterilizatsiya yoki germetiklik buzilishi — oldini olish: to‘g‘ri sterilizatsiya, ishonchli zakatka); mahsulotning yumshab ketishi (ortiqcha termik ishlov yoki o‘ta yetilgan xom ashyo); rang o‘zgarishi (fermentativ qorayish — blanshirovka bilan oldi olinadi; sun’iy bo‘yoq ishlatilmagani uchun tabiiy rangni saqlash muhim); quyma loyqalanishi (ezilgan to‘qima); ta’m nuqsonlari (sifatsiz xom ashyo). Sun’iy konservant yo‘qligida xavfsizlik to‘liq sterilizatsiya, kislotalilik va germetiklikka bog‘liq, shuning uchun bu uch omil qat’iy nazorat qilinadi.
+
+### Vitaminlar va tabiiy moddalarni saqlash
+
+Ekologik toza mahsulotning qimmati uning vitaminlar va tabiiy moddalarni saqlashida namoyon bo‘ladi. C vitamini issiqlik va kisloroddan oson parchalanadi, shuning uchun uni saqlash uchun: mahsulotni havoda uzoq ushlamaslik; eksgaustatsiya orqali kislorodni chiqarish; optimal (ortiqcha emas) sterilizatsiya rejimi; tez sovitish; korroziyabardosh uskunalar qo‘llaniladi. To‘g‘ri texnologiya qo‘llanilganda xom ashyoning vitamin va antioksidantlarining (masalan, pomidordagi likopin) katta qismi tayyor mahsulotda saqlanadi.
+
+### Sifat va xavfsizlikni boshqarish (HACCP) hamda ekologik nazorat
+
+Ekologik toza ishlab chiqarishda HACCP (xavflarni tahlil qilish va kritik nazorat nuqtalari) tizimi qo‘llaniladi. Asosiy kritik nazorat nuqtalari: xom ashyo qabuli (ekologik tozalik — pestitsid, nitrat nazorati); sterilizatsiya rejimi (harorat va vaqt); germetiklik (zakatka sifati); kislotalilik (pH < 4,5). Bundan tashqari, ekologik nazorat tizimi xom ashyodan tayyor mahsulotgacha bo‘lgan zanjirning ekologik talablarga muvofiqligini (kuzatuvchanlik — traceability) ta’minlaydi. Sifat nazorati uch bosqichda (kiruvchi, jarayon davomidagi, chiquvchi) olib boriladi va tayyor mahsulot sanoat sterilligiga termostat sinovi orqali tekshiriladi.
+
+### Ekologik toza ishlab chiqarishning prinsiplari
+
+Ekologik toza ishlab chiqarish quyidagi prinsiplarga amal qiladi: tabiiy xom ashyo va tabiiy konservalash; sun’iy qo‘shimchalardan voz kechish; resurslarni (suv, energiya) tejash; chiqindilarni to‘liq qayta ishlash (chiqindisizlik); atrof-muhitni ifloslantirmaslik; mahalliy xom ashyoga tayanish; mahsulot xavfsizligi va kuzatuvchanligini ta’minlash. Bu prinsiplar mahsulotni nafaqat sifatli, balki ekologik va ijtimoiy jihatdan mas’uliyatli qiladi, bu esa zamonaviy bozorda muhim raqobat ustunligi hisoblanadi.
+
 # II-BOB. TEXNOLOGIK QISM
 
 ## 2.1. Ishlab chiqarish texnologik sxemasini tanlash va asoslash
@@ -248,6 +328,26 @@ Qiyosiy tahlil natijasida tabiiy konservalashga asoslangan, mexanizatsiyalashgan
 | Sterilizatsiya harorati | ≈100 °C |
 | Sterilizatsiya formulasi (0,5 l) | (20–25–20)/100 °C |
 | Qattiq mahsulot : quyma nisbati | 60:40 |
+
+### Idish turini tanlash va qiyosiy baholash
+
+Ekologik toza mahsulot uchun idish ham ekologik nuqtai nazardan tanlanadi. Idish turlari quyidagicha qiyoslanadi:
+
+| Idish turi | Ekologik jihat | Texnologik jihat |
+| --- | --- | --- |
+| Shisha banka | Inert, to‘liq qayta ishlanadi | Kislotabardosh, mahsulot ko‘rinadi |
+| Metall banka | Qayta ishlanadi, lekin korroziya | Yengil, tez qiziydi |
+| Polimer idish | Qayta ishlash cheklangan | Issiqlikka chidamliligi past |
+
+Shisha banka ekologik toza mahsulot uchun eng maqbul idish hisoblanadi: u inert, mahsulot bilan reaksiyaga kirmaydi, to‘liq qayta ishlanadi (ekologik) va mahsulotning tabiiy ko‘rinishini namoyon qiladi. Shu sababli loyihada 0,5–1,0 l shisha banka asosiy idish sifatida tanlandi.
+
+### Sterilizatsiya usulini tanlash
+
+Sterilizatsiya partiyali (avtoklavlarda) yoki uzluksiz amalga oshirilishi mumkin. Partiyali sterilizatsiya moslashuvchan, turli mahsulot va idishlar uchun qulay, o‘rta quvvatga mos. Uzluksiz sterilizatsiya yuqori unumdorlik beradi, lekin qimmat. Mavsumiy va xilma-xil xom ashyoga tayangan, turli mahsulot ishlab chiqaradigan ekologik korxona uchun partiyali (avtoklavli) sterilizatsiya optimal, chunki u assortiment moslashuvchanligini ta’minlaydi.
+
+### Korxona quvvatini asoslash
+
+Kunlik 9 tonna quvvat o‘rta hajmli korxonaga xosdir. Bu quvvat mahalliy fermerlar hosilini barqaror sotib olish va mavsumiy xom ashyoni samarali qayta ishlash, ayni paytda iqtisodiy jihatdan oqlanadigan va boshqarish qulay bo‘lishni ta’minlaydi. Bu quvvatda asosiy uskunalardan bittadan, sterilizatsiya uchun 2 ta avtoklav yetarli. Mahalliy xom ashyo bazasi ham aynan shu quvvatni uzluksiz ta’minlashga yetarli bo‘lib, ortiqcha quvvat xom ashyo tanqisligiga olib kelishi mumkin edi.
 
 ## 2.2. Texnologik sxemaning yozuvi
 
@@ -312,6 +412,26 @@ Ekologik toza ishlab chiqarishda texnologik jarayonga resurs tejash va chiqindil
 Xulosa qilib aytganda, ekologik toza konservalangan mahsulotlar ishlab chiqarish texnologik jarayoni bir-biri bilan bog‘langan bosqichlardan iborat bo‘lib, har bir bosqich mahsulot sifati, xavfsizligi va ekologik tozaligiga ta’sir ko‘rsatadi. Barcha jarayonlar ilmiy va ekologik asosda boshqarilganda yuqori sifatli, xavfsiz, tabiiy va raqobatbardosh mahsulot olish mumkin.
 
 
+### Blanshirovkaning nazariy asoslari
+
+Blanshirovka — mahsulotni issiq suv yoki bug‘ bilan qisqa vaqt ishlash bo‘lib, u sun’iy qo‘shimchalarsiz sifatni saqlashda muhim rol o‘ynaydi. Maqsadlari: fermentlarni (polifenoloksidaza) faolsizlantirib, fermentativ qorayishning oldini olish (bu ayniqsa muhim, chunki sun’iy bo‘yoq ishlatilmaydi va tabiiy rang saqlanishi kerak); to‘qimadagi havoni chiqarib, oksidlanish va vitamin yo‘qotilishini kamaytirish; mahsulotni yumshatish va hajmni barqarorlashtirish; yuza mikroorganizmlar sonini kamaytirish. Blanshirovka harorati va vaqti mahsulot turiga qarab tanlanadi; ortiqcha blanshirovka oziqaviy moddalarni yuvib yuboradi. Blanshirovka suvi issiqligi regeneratsiya qilinadi (ekologik tejamkorlik).
+
+### Eksgaustatsiyaning ahamiyati
+
+Eksgaustatsiya — idishdagi havoni chiqarish jarayoni bo‘lib, u bir necha jihatdan muhim: idishda vakuum hosil qilib germetiklikni mustahkamlaydi; kislorodni chiqarib vitaminlar (C vitamini, likopin) oksidlanishining oldini oladi; metall qopqoq korroziyasini kamaytiradi; sterilizatsiyada idishdagi bosimni boshqaradi. Sun’iy konservant yo‘qligida vakuum va kislorodsizlik mahsulot saqlanuvchanligiga qo‘shimcha hissa qo‘shadi. Eksgaustatsiya issiq quyma quyish va eksgauster kamerasida qizdirish orqali amalga oshiriladi.
+
+### Sterilizatsiyada issiqlik penetratsiyasi va F-qiymat
+
+Sterilizatsiya samaradorligi issiqlikning idish markaziga (eng sekin qiziydigan nuqtaga) yetib borishiga bog‘liq. Issiqlik penetratsiyasi idish hajmi, mahsulot konsistensiyasi va boshlang‘ich haroratga bog‘liq. Sterilizatsiya samaradorligi F-qiymat (ekvivalent sterilizatsiya vaqti) bilan ifodalanadi. Kislotali mahsulotlar (pH < 4,5) uchun pasterizatsiya darajasidagi ishlov (100 °C atrofida) mahsulot xavfsizligini ta’minlaydi. Sterilizatsiya formulasi har bir mahsulot va idish turi uchun alohida belgilanadi va eksperimental tasdiqlanadi, bu sun’iy konservantsiz xavfsizlikni kafolatlash uchun ayniqsa muhim.
+
+### Sovitishning ahamiyati
+
+Sterilizatsiyadan keyin tez sovitish: mahsulotning ortiqcha qaynashi va bo‘tqaga aylanishining oldini oladi; rang, ta’m va vitaminlarning issiqlik ta’sirida buzilishini kamaytiradi; termofil mikroorganizmlar rivojlanishi mumkin bo‘lgan harorat zonasidan tez o‘tishni ta’minlaydi. Sovitish 40 °C atrofigacha olib boriladi va sovitish suvi qayta ishlatiladi (resurs tejash). Sovitish suvi toza bo‘lishi kerak, chunki vakuum tufayli germetiklik nuqtalaridan suv so‘rilishi mumkin.
+
+### Resurslarni tejash va chiqindisiz texnologiya integratsiyasi
+
+Ekologik toza ishlab chiqarishning o‘ziga xosligi shundaki, texnologik jarayonga resurs tejash va chiqindisiz texnologiya to‘liq integratsiyalanadi: yuvish va sovitish suvlari tozalanib qayta ishlatiladi; blanshirovka va sterilizatsiya issiqligi rekuperatorlar orqali regeneratsiya qilinadi; tozalashda hosil bo‘ladigan organik chiqindilar (po‘st, danak, o‘zak) darhol qayta ishlash blokiga uzatiladi (pektin, danak moyi, ozuqa, biogaz); qadoqlash chiqindilari saralanadi. Bu integratsiya korxonani “yashil” va resurs tejovchi qiladi, hamda qo‘shimcha daromad manbalarini yaratadi.
+
 ## 2.3. Xom-ashyo, yordamchi materiallar, chiqindilar, ulardan foydalanish, tayyor mahsulotlarga qo‘yiladigan GOST va texnik shartlar talablari
 
 Ekologik toza konservalangan mahsulotlar ishlab chiqarishda xom ashyo va yordamchi materiallar sifati va ekologik tozaligi, shuningdek chiqindilarni oqilona boshqarish mahsulot sifati, xavfsizligi va ishlab chiqarishning ekologik samaradorligini ta’minlovchi asosiy omillardir.
@@ -351,6 +471,36 @@ Me’yoriy hujjatlar quyidagilarni belgilaydi: xom ashyo talablari (sifat va eko
 ### Mahsulot xavfsizligi va sertifikatlash
 
 Tayyor mahsulotda quyidagi xavfsizlik ko‘rsatkichlari nazorat qilinadi: og‘ir metallar, pestitsidlar qoldig‘i, nitratlar, mikotoksinlar va mikrobiologik ko‘rsatkichlar (sanoat sterilligi). Ekologik toza mahsulot uchun bu ko‘rsatkichlar oddiy mahsulotga nisbatan qattiqroq talablarga javob berishi kerak. Mahsulotning ekologik tozaligini tasdiqlash uchun tegishli sertifikatlar (sifat, xavfsizlik, zarur bo‘lsa organik/ekologik sertifikat) olinadi. Bu mahsulotning ichki va tashqi bozorda ishonchini oshiradi.
+
+### Chiqindilardan foydalanishning batafsil yo‘nalishlari
+
+Ekologik toza ishlab chiqarish chiqindisiz texnologiyaga intiladi va organik chiqindilarni qimmatli mahsulotlarga aylantiradi:
+
+Pektin olish. Olma va boshqa mevalar po‘sti hamda o‘zagi pektinga boy. Pektin — tabiiy jelatinlovchi modda bo‘lib, jem, marmelad va boshqa mahsulotlar ishlab chiqarishda hamda farmatsevtikada qo‘llaniladi. Olma po‘stidan pektin ajratib olish chiqindini yuqori qiymatli tabiiy mahsulotga aylantiradi.
+
+Danak moyi olish. O‘rik va shaftoli danaklari mag‘zidan tabiiy moy ajratiladi, u kosmetika va oziq-ovqatda qadrlanadi. Danak qobig‘i faollashtirilgan ko‘mir yoki yoqilg‘i sifatida ishlatiladi.
+
+Chorva ozuqasi va kompost. Sabzavot va meva qoldiqlari chorva uchun yem yoki organik o‘g‘it (kompost) sifatida ishlatiladi, bu mahalliy qishloq xo‘jaligiga qaytadi (aylanma).
+
+Biogaz. Organik chiqindilardan anaerob bijg‘itish orqali biogaz olinadi, bu korxonaning energiya ehtiyojini qisman qoplaydi va ekologik tozalikni oshiradi.
+
+Bu yo‘nalishlar chiqindilarni deyarli to‘liq qayta ishlash va qo‘shimcha daromad olish imkonini beradi, bu ekologik toza korxona uchun ham ekologik, ham iqtisodiy ahamiyatga ega.
+
+### Oqava suvlarni tozalash bosqichlari
+
+Oqava suvlar uch bosqichda tozalanadi: birlamchi (mexanik) tozalash — panjara, elak va tindirgichlar yordamida qattiq zarrachalar ajratiladi; ikkilamchi (biologik) tozalash — mikroorganizmlar yordamida eruvchan organik moddalar parchalanadi (aerob yoki anaerob); uchlamchi (yakuniy) tozalash — pH me’yorlanadi, dezinfeksiya qilinadi. Tozalangan suv me’yorlarga javob berganda qayta ishlatiladi yoki chiqariladi. Ekologik toza korxona oqava suvlarni belgilangan me’yorlardan past darajada tozalashga intiladi va suvni maksimal qayta ishlatadi.
+
+### Kuzatuvchanlik (traceability) tizimi
+
+Ekologik toza mahsulot uchun kuzatuvchanlik — ya’ni xom ashyo manbasidan tayyor mahsulotgacha bo‘lgan butun zanjirni hujjatlashtirish va kuzatish muhim ahamiyatga ega. Har bir partiya mahsulot uchun xom ashyo manbai (fermer), qabul sanasi, ishlab chiqarish parametrlari va nazorat natijalari qayd etiladi. Bu mahsulotning ekologik tozaligini va sifatini isbotlash, muammo yuzaga kelganda manbani aniqlash hamda sertifikatlash talablariga javob berish imkonini beradi.
+
+### Standartlar, texnik shartlar va sertifikatlash
+
+GOST (davlat standarti) va texnik shartlar (TSh) mahsulot sifati, xavfsizligi, qadoqlash va markirovkasini belgilaydi. Tabiiy konservalar uchun tegishli davlat standartlari mavjud. Ekologik toza/organik mahsulot uchun qo‘shimcha ravishda organik sertifikat, HACCP, ISO 22000 kabi tizimlar talab etilishi mumkin. Korxona texnik shartlarida mahsulotning ekologik tozalik talablari, tabiiy tarkibi (sun’iy qo‘shimchalar yo‘qligi), sifat va xavfsizlik ko‘rsatkichlari aniq belgilanadi. Sertifikatlash mahsulotning bozordagi ishonchini va eksport salohiyatini sezilarli oshiradi.
+
+### Mahsulot xavfsizligi ko‘rsatkichlari
+
+Tayyor mahsulotda quyidagi xavfsizlik ko‘rsatkichlari nazorat qilinadi: og‘ir metallar (qo‘rg‘oshin, kadmiy, mishyak), pestitsidlar qoldig‘i, nitratlar, mikotoksinlar (patulin), mikrobiologik ko‘rsatkichlar (sanoat sterilligi) va sun’iy konservantlarning yo‘qligi. Ekologik toza mahsulot uchun bu ko‘rsatkichlar oddiy mahsulotga nisbatan qattiqroq talablarga javob berishi kerak. Bu mahsulotning inson salomatligi uchun to‘liq xavfsizligini kafolatlaydi.
 
 ## 2.4. Moddiy va issiqlik balansi
 
@@ -454,6 +604,40 @@ Kunlik jami issiqlik sarfi ≈3931 MJ (1092 kVt·soat). Bug‘ ekvivalenti (2200
 Moddiy va issiqlik balansi hisoblari xom ashyoga ehtiyojni, uskunalar quvvatini, chiqindilar miqdorini va energiya sarfini aniqlash hamda mahsulot tannarxini hisoblash uchun asos yaratadi.
 
 
+### Soatlik moddiy balans
+
+Smena 8 soat davom etganda asosiy oqimlarning soatlik miqdori:
+
+| Oqim | Kunlik, kg | Soatlik, kg/soat |
+| --- | --- | --- |
+| Mahalliy xom ashyo | 6353 | 794 |
+| Tuz | 74 | 9,3 |
+| Suv (quyma uchun) | 3637 | 455 |
+| Tayyor mahsulot | 9000 | 1125 |
+| Organik chiqindi | 953 | 119 |
+
+Soatlik balans uskunalar unumdorligini va liniya ish ritmini belgilashda asos bo‘ladi.
+
+### Texnologik suv balansi
+
+Quyma tarkibidagi suvdan tashqari, korxona yuvish, blanshirovka, idishlarni yuvish, sterilizatsiya va sovitish uchun katta miqdorda texnologik suv sarflaydi. Bu suv sarfi kunlik taxminan 35–45 m³ ni tashkil etishi mumkin. Ekologik toza korxona suvni maksimal tejaydi: yuvish va sovitish suvlari tozalanib qayta ishlatiladi, bu toza suv sarfini va oqava suv hajmini sezilarli kamaytiradi. Suvni qayta ishlatish darajasi qanchalik yuqori bo‘lsa, korxona shunchalik ekologik va iqtisodiy samarali bo‘ladi.
+
+### Bug‘ sarfini hisoblash
+
+Issiqlik balansiga ko‘ra kunlik issiqlik sarfi ≈3931 MJ. Bug‘ning yashirin issiqligi (≈2200 kJ/kg) hisobga olinsa, kunlik bug‘ sarfi:
+
+Gbug‘ = 3 931 000 / 2200 ≈ 1787 kg bug‘/kun
+
+Soatlik bug‘ sarfi ≈ 223 kg/soat. Bug‘ qozoni zaxira bilan soatiga kamida 280–320 kg bug‘ ishlab chiqaradigan quvvatda tanlanadi. Ekologik toza korxonada bug‘ qozonining yuqori FIK ga ega bo‘lishi va kondensatni qaytarib ishlatishi energiya va emissiyalarni kamaytiradi.
+
+### Alohida mahsulot bo‘yicha balans namunasi
+
+Faqat tabiiy pomidor konservasi ishlab chiqarilganda balans biroz farq qiladi, chunki pomidorni tayyorlash yo‘qotishi (bandi, po‘sti) nisbatan kam (≈10–12 %). Bunda kerakli xom pomidor miqdori boshqa sabzavotlarga nisbatan kamroq bo‘ladi va chiqindi ham kamayadi. Aralash mahsulot ishlab chiqarilganda esa o‘rtacha 15 % yo‘qotish qabul qilinadi. Balansning moslashuvchanligi turli mahsulot va xom ashyo uchun ehtiyojni tez qayta hisoblash imkonini beradi.
+
+### Energiya tejash hisob-kitobi
+
+Issiqlik regeneratsiyasi (rekuperator) qo‘llanilganda sterilizatsiya va blanshirovkadan chiqadigan issiqlikning bir qismi (taxminan 20–30 %) qaytarilib ishlatiladi. Bu kunlik issiqlik sarfini ≈3931 MJ dan ≈2900–3100 MJ gacha kamaytirishi mumkin. Yiliga bu sezilarli energiya va xarajat tejamiga olib keladi hamda emissiyalarni kamaytiradi. Shu sababli ekologik toza korxona uchun issiqlik regeneratsiyasi muhim texnik-iqtisodiy yechim hisoblanadi.
+
 ## 2.5. Asosiy texnologik qurilmaning hisoblari
 
 Texnologik uskunalarni hisoblash ishlab chiqarishni to‘g‘ri loyihalashning muhim bosqichi bo‘lib, har bir uskunaning zarur unumdorligi, sig‘imi va soni aniqlanadi. Hisoblar moddiy balans natijalariga tayanadi.
@@ -534,6 +718,22 @@ Korxona bug‘ ta’minoti (parogenerator, soatiga ≈250 kg bug‘), suv ta’m
 
 Xulosa qilib aytganda, uskunalar hisoblari shuni ko‘rsatadiki, kuniga 9 tonna quvvatdagi korxona uchun asosan bittadan dastlabki tayyorlov va qadoqlash uskunasi hamda sterilizatsiya uchun 2 ta avtoklav yetarli bo‘ladi. Bu o‘rta quvvatli korxona uchun iqtisodiy jihatdan maqbul va texnik jihatdan asoslangan yechimdir.
 
+### Asosiy uskunalarning batafsil tavsifi
+
+Yuvish mashinasi — bo‘ktirgich vanna va purkagichli qismdan iborat; xom ashyoni tuproq va qoldiqlardan tozalaydi, suvni qayta ishlatish tizimi bilan jihozlanadi. Saralash va inspeksiya transportyori — yaxshi yoritilgan lentali transportyor, nuqsonli mahsulotni ajratish uchun. Tozalash mashinalari — mahsulot turiga qarab po‘st archuvchi, danak chiqaruvchi va boshqa mashinalar. Maydalash mashinasi — almashtiriladigan disklar bilan turli kesim shakllarini beradi. Blanshirovka qurilmasi — uzluksiz lentali yoki shnekli, harorat va vaqt sozlanadigan, issiqlik regeneratsiyali. Quyma qozoni — isitish ko‘ylagi va aralashtirgichli zanglamaydigan po‘lat qozon. To‘ldirish mashinasi — mahsulot va quymani avtomatik dozalaydi. Eksgauster kamerasi — havoni issiqlik bilan chiqaradi. Zakatka mashinasi — idishlarni germetik berkitadi, shov sifati nazorat qilinadi. Avtoklav — bosim ostida sterilizatsiya, manometr, termometr va avtomatik boshqaruv bilan. Etiketkalash mashinasi — idishlarga etiketka yopishtiradi. Chiqindilarni qayta ishlash bloki — po‘st, danak va boshqa organik chiqindilarni pektin, moy yoki ozuqaga qayta ishlaydi.
+
+### Yordamchi tizimlar
+
+Korxona quyidagi yordamchi tizimlarni talab qiladi: bug‘ ta’minoti (parogenerator, soatiga ≈300 kg bug‘, yuqori FIK li); suv ta’minoti va ko‘p bosqichli tozalash tizimi; sovitish tizimi (sovuq suv); elektr ta’minoti (zaxira manba bilan); CIP yuvish stansiyasi; siqilgan havo (kompressor); chiqindilarni qayta ishlash va issiqlik regeneratsiyasi (rekuperator) tizimlari. Ekologik toza korxonada suv tozalash, issiqlik regeneratsiyasi va chiqindi qayta ishlash tizimlari alohida ahamiyatga ega.
+
+### Ishlab chiqarish maydoni va zonalar
+
+Korxona maydoni zonalarga bo‘linadi: xom ashyoni qabul qilish va saqlash; dastlabki tayyorlov (“iflos” zona); issiqlik ishlovi (blanshirovka, quyma, sterilizatsiya); tayyor mahsulot (“toza” zona — etiketkalash, qadoqlash, ombor); chiqindilarni qayta ishlash bloki; yordamchi binolar (bug‘ qozoni, suv tozalash, laboratoriya, ma’muriy va sanitariya-maishiy xonalar). Texnologik oqim bir yo‘nalishda (xom ashyodan tayyor mahsulotga) tashkil etiladi, “toza” va “iflos” zonalar ajratiladi. Bu sanitariya xavfsizligini va mahsulot tozaligini ta’minlaydi.
+
+### Uskunalardan samarali foydalanish
+
+Uskunalardan samarali foydalanish uchun ularning unumdorligi o‘zaro muvofiqlashtiriladi, profilaktik texnik xizmat o‘z vaqtida bajariladi va xodimlar to‘g‘ri ekspluatatsiyaga o‘rgatiladi. Uskunalarning yuklanish koeffitsiyenti nazorat qilinadi. Energiya va suv tejovchi uskunalardan foydalanish ekologik toza ishlab chiqarishning muhim talabidir va mahsulot tannarxini ham kamaytiradi.
+
 # III-BOB. MEHNAT MUHOFAZASI
 
 Mehnat muhofazasi — ishlab chiqarish jarayonida xodimlarning hayoti, sog‘lig‘i va mehnat qobiliyatini saqlashga qaratilgan huquqiy, ijtimoiy-iqtisodiy, tashkiliy-texnik, sanitariya-gigiyena va davolash-profilaktika tadbirlari tizimidir. Konservalash korxonasida xodimlar o‘tkir kesuvchi uskunalar, issiqlik manbalari, bug‘, bosim ostidagi avtoklavlar va elektr jihozlar bilan ishlagani uchun mehnat muhofazasiga alohida e’tibor qaratiladi.
@@ -568,6 +768,26 @@ Xodimlar maxsus kiyim, bosh kiyim, sirpanmaydigan poyabzal, himoya qo‘lqoplari
 
 Xulosa qilib aytganda, konservalash korxonasida mehnat muhofazasi xodimlar hayoti va sog‘lig‘ini hamda mahsulot xavfsizligini ta’minlashga qaratilgan kompleks tadbirlardan iborat. Ayniqsa avtoklavlar va issiqlik manbalari bilan ishlashda ehtiyotkorlik talab etiladi.
 
+## Ishlab chiqarish sanitariyasi va mikroiqlim normalari
+
+Oziq-ovqat korxonasida sanitariya ham xodimlar salomatligi, ham mahsulot xavfsizligi uchun muhim. Ish xonalarining mikroiqlimi (harorat, namlik, havo harakati) sanitariya normalariga mos bo‘lishi kerak. Issiqlik ishlovi zonalarida (blanshirovka, sterilizatsiya, quyma qozoni) harorat va namlik yuqori bo‘lishi mumkin, shuning uchun samarali ventilyatsiya va havoni tortib chiqarish tizimlari o‘rnatiladi. Ish joylari yetarli yoritiladi, ayniqsa saralash va inspeksiya joylarida. Shovqin darajasi ruxsat etilgan chegaradan oshmasligi lozim.
+
+## Elektr xavfsizligi tadbirlari
+
+Ho‘l muhitda elektr xavfi yuqori bo‘lgani uchun: barcha elektr jihozlari yerga ulanadi; himoya o‘chirish moslamalari (UZO) o‘rnatiladi; izolyatsiya muntazam tekshiriladi; ho‘l zonalarda past kuchlanishli yoritish qo‘llaniladi; elektr shchitlari namlikdan himoyalangan bajarilishda bo‘ladi. Elektr jihozlarini ta’mirlash faqat tokdan uzilgan holda bajariladi.
+
+## Avtoklavlar bilan ishlash xavfsizligi
+
+Avtoklavlar bosim ostida ishlaydigan idishlar bo‘lib, yuqori xavf manbai hisoblanadi. Ular bilan ishlashda: avtoklavlar ro‘yxatdan o‘tkaziladi va davriy texnik ko‘rik hamda sinovdan o‘tkaziladi; manometr, termometr va predoxranitel klapanlar soz holatda bo‘lishi tekshiriladi; qopqoq to‘g‘ri yopilmaguncha bosim berilmaydi; bosim ostida qopqoq ochish qat’iyan man etiladi; ish bosimi va harorat me’yordan oshirilmaydi; operatorlar maxsus o‘qitiladi va attestatsiyadan o‘tadi.
+
+## Birinchi tibbiy yordam va profilaktika
+
+Korxonada birinchi tibbiy yordam shkaflari (aptechka) o‘rnatiladi, xodimlar birinchi yordam ko‘rsatishga o‘rgatiladi, kuyish va kesilish uchun zarur vositalar bo‘ladi. Xodimlar davriy tibbiy ko‘rikdan o‘tkaziladi. Ish va dam olish rejimi to‘g‘ri tashkil etiladi, og‘ir ishlar mexanizatsiyalashtiriladi.
+
+## Baxtsiz hodisalarni hisobga olish va tahlil qilish
+
+Baxtsiz hodisalar belgilangan tartibda qayd etiladi, tergov qilinadi va tahlil qilinadi. Tahlil natijasida sabablar aniqlanadi va takrorlanishning oldini olish chora-tadbirlari ishlab chiqiladi. Bu mehnat sharoitlarini doimiy yaxshilashga xizmat qiladi.
+
 # IV-BOB. ATROF-MUHIT MUHOFAZASI
 
 Atrof-muhit muhofazasi ekologik toza mahsulot ishlab chiqaradigan korxona uchun ayniqsa muhim, chunki “ekologik tozalik” faqat mahsulot tarkibiga emas, balki butun ishlab chiqarish jarayoniga ham taalluqlidir. Korxona atrof-muhitga qattiq organik chiqindilar, oqava suvlar va energiya sarfi orqali ta’sir ko‘rsatadi.
@@ -597,6 +817,26 @@ Korxona aylanma (resurs tejovchi) iqtisodiyot prinsipiga amal qiladi: organik ch
 Korxonada ekologik monitoring tizimi yo‘lga qo‘yiladi: oqava suv sifati, chiqindilar miqdori, suv va energiya sarfi muntazam nazorat qilinadi. Mahsulotning ekologik tozaligini va ishlab chiqarishning ekologik talablarga muvofiqligini tasdiqlash uchun tegishli sertifikatlar olinishi mumkin. Bu mahsulotning bozordagi ishonchini va eksport salohiyatini oshiradi.
 
 Xulosa qilib aytganda, ekologik toza mahsulot ishlab chiqaradigan korxona atrof-muhitni muhofaza qilishga alohida e’tibor qaratadi. Mahalliy resurslarga tayanish, chiqindilarni to‘liq qayta ishlash, oqava suvlarni tozalash va resurslarni tejash orqali korxona atrof-muhitga minimal ta’sir ko‘rsatadi va barqaror rivojlanish tamoyillariga amal qiladi.
+
+## Mahsulotning ekologik izi (carbon footprint)
+
+Ekologik toza mahsulotning muhim ko‘rsatkichlaridan biri uning ekologik izi — ishlab chiqarish jarayonida atmosferaga chiqariladigan parnik gazlari (asosan CO2) miqdoridir. Mahalliy resurslarga tayanish mahsulotning ekologik izini sezilarli kamaytiradi, chunki xom ashyoni uzoq masofaga tashish zarurati yo‘qoladi va transport bilan bog‘liq yoqilg‘i sarfi hamda emissiyalar minimallashadi. Bundan tashqari, issiqlik regeneratsiyasi, energiya tejash va chiqindilardan biogaz olish ham ekologik izni kamaytiradi. Past ekologik iz mahsulotni xalqaro bozorda, ayniqsa ekologik talablar qattiq bo‘lgan davlatlarda raqobatbardosh qiladi.
+
+## Oqava suvlarni tozalashning batafsil tizimi
+
+Oqava suvlar ko‘p bosqichli tozalanadi: birlamchi (mexanik) — panjara, elak, tindirgich, yog‘ tutgich orqali qattiq va osilgan moddalarni ajratish; ikkilamchi (biologik) — aerotank yoki anaerob reaktorda mikroorganizmlar yordamida eruvchan organik moddalarni parchalash (BPK va XPK ni kamaytirish); uchlamchi (yakuniy) — pH me’yorlash, dezinfeksiya va qo‘shimcha filtrlash. Anaerob tozalashda hosil bo‘ladigan biogaz energiya manbai sifatida ishlatiladi. Tozalangan suv me’yorlarga javob berib, texnik ehtiyojlar uchun qayta ishlatiladi yoki xavfsiz chiqariladi.
+
+## Aylanma iqtisodiyot va resurslarni tejash
+
+Korxona aylanma iqtisodiyot prinsipiga to‘liq amal qiladi: organik chiqindilar pektin, danak moyi, ozuqa va biogazga qayta ishlanadi; suv tozalanib qayta ishlatiladi; issiqlik regeneratsiya qilinadi; qadoqlash chiqindilari ikkilamchi xom ashyoga topshiriladi; biogaz energiya sifatida ishlatiladi. Bu yondashuvda chiqindi tushunchasi minimallashadi — deyarli barcha oqimlar resursga aylanadi. Aylanma iqtisodiyot ekologik yukni kamaytiradi va qo‘shimcha iqtisodiy samara beradi.
+
+## Energiyani tejash va energiya auditi
+
+Sterilizatsiya issiqlik energiyasining asosiy iste’molchisi bo‘lgani uchun energiya tejash ekologik va iqtisodiy jihatdan muhim. Tadbirlar: sterilizatsiya va blanshirovka issiqligini regeneratsiya qilish; bug‘ quvurlari va uskunalarni izolyatsiyalash; sterilizatsiya rejimini optimallashtirish; bug‘ qozoni FIK ni oshirish va kondensatni qaytarish; biogaz va mumkin bo‘lganda quyosh energiyasidan foydalanish; energiya auditi o‘tkazish. Energiya auditi sarf manbalarini tahlil qilib, isrofni aniqlash va tejash imkoniyatlarini belgilash imkonini beradi.
+
+## Ekologik monitoring va sertifikatlash
+
+Korxonada ekologik monitoring tizimi yo‘lga qo‘yiladi: oqava suv sifati (BPK, XPK, pH), chiqindilar miqdori, suv va energiya sarfi muntazam nazorat qilinadi. Mahsulotning va ishlab chiqarishning ekologik talablarga muvofiqligini tasdiqlash uchun tegishli sertifikatlar (organik, ISO 14001, HACCP) olinishi mumkin. Ekologik monitoring va sertifikatlash mahsulotning bozordagi ishonchini, brendini va eksport salohiyatini sezilarli oshiradi.
 
 # V-BOB. IQTISODIY QISM
 
@@ -673,6 +913,41 @@ Qoplanish muddati: T = 9500 / 4462,5 ≈ 2,13 yil
 ## Iqtisodiy samaradorlik xulosasi
 
 Keltirilgan hisoblar shuni ko‘rsatadiki, mahalliy resurslardan foydalanib kunlik 9 tonna ekologik toza konservalangan mahsulotlar ishlab chiqarish korxonasini tashkil etish iqtisodiy jihatdan maqsadga muvofiqdir. Loyihaning rentabelligi 35 %, qoplanish muddati ≈2,1 yilni tashkil etadi. Ekologik toza mahsulotning premium narxda sotilishi rentabellikni oshiradi. Iqtisodiy samaradorlikni yanada oshirish uchun: mahalliy xom ashyoni mavsumda arzon narxda zaxiralash; chiqindilardan (pektin, danak moyi) qo‘shimcha daromad olish; energiya va suvni tejash; ekologik sertifikat olib eksportga chiqish; mahsulot assortimentini kengaytirish tavsiya etiladi.
+
+## Mahsulot birligi (banka) bo‘yicha iqtisodiy ko‘rsatkichlar
+
+Bir shartli banka (0,5 kg) uchun iqtisodiy ko‘rsatkichlar:
+
+| Ko‘rsatkich | Qiymati (1 banka) |
+| --- | --- |
+| Tannarx | 3333 so‘m |
+| Sotuv narxi (ulgurji) | 4500 so‘m |
+| Yalpi foyda | 1167 so‘m |
+| Rentabellik | 35 % |
+
+Bir banka mahsulotdan ≈1167 so‘m yalpi foyda olinadi. Yiliga 4,5 mln banka ishlab chiqarilganda umumiy yalpi foyda 5250 mln so‘mni tashkil etadi.
+
+## Zararsizlik nuqtasi (break-even) tahlili
+
+Zararsizlik nuqtasi — daromad jami xarajatlarga teng bo‘ladigan ishlab chiqarish hajmidir. Xarajatlar doimiy (amortizatsiya, ma’muriy ish haqi) va o‘zgaruvchan (xom ashyo, qadoqlash, energiya, ishlab chiqarish ish haqi) qismlarga ajratiladi. Taxminiy hisobda yillik doimiy xarajatlar ≈2400 mln so‘m, o‘zgaruvchan xarajatlar ≈12 600 mln so‘m (1 kg ga ≈5600 so‘m). Bir kg dan marjinal daromad:
+
+Marjinal daromad = 9000 − 5600 = 3400 so‘m/kg
+
+Zararsizlik nuqtasi = 2 400 000 000 / 3400 ≈ 705 882 kg ≈ 706 tonna
+
+Demak, korxona yiliga taxminan 706 tonna (loyiha quvvatining ≈31 %) mahsulot sotganda zararsizlik nuqtasiga yetadi. Bu loyiha quvvatidan ancha past bo‘lib, loyihaning iqtisodiy barqarorligini va xavf-xatarga chidamliligini ko‘rsatadi.
+
+## Sezgirlik (sensitivlik) tahlili
+
+Loyiha ko‘rsatkichlarining bozor o‘zgarishlariga sezgirligi baholanadi. Asosiy o‘zgaruvchilar — xom ashyo narxi, sotuv narxi va quvvatdan foydalanish darajasi. Agar xom ashyo narxi 10 % oshsa, tannarx ≈476 mln so‘mga oshadi va foyda shu miqdorda kamayadi. Agar sotuv narxi 10 % oshsa (9000 → 9900 so‘m/kg), daromad 2025 mln so‘mga oshib, foyda sezilarli ko‘payadi. Agar mavsumiy xom ashyo cheklovi tufayli quvvatdan foydalanish 80 % ga tushsa, ishlab chiqarish va foyda mutanosib kamayadi, ammo zararsizlik nuqtasi pastligi tufayli korxona foydada qoladi. Ekologik toza mahsulotning premium narxi sezgirlikni kamaytiruvchi ijobiy omildir.
+
+## Investitsiya samaradorligining qo‘shimcha ko‘rsatkichlari
+
+Loyiha samaradorligini to‘liqroq baholash uchun: investitsiya rentabelligi (ROI) — yillik sof foydaning kapital qo‘yilmalarga nisbati, bu loyihada ≈47 % (4462,5/9500); diskontlangan ko‘rsatkichlar (NPV, IRR) uzoq muddatli baholashda qo‘llaniladi. Qoplanish muddati qisqa (≈2,1 yil), ROI yuqori bo‘lgani uchun loyiha investitsiya jihatdan jozibador. Ekologik toza mahsulotning yuqori va o‘suvchi talabi loyihaning uzoq muddatli istiqbolini ham mustahkamlaydi.
+
+## Iqtisodiy samaradorlikni oshirish yo‘nalishlari
+
+Iqtisodiy samaradorlikni oshirish uchun: mahalliy xom ashyoni mavsumda arzon narxda zaxiralash va to‘g‘ridan-to‘g‘ri fermerlardan sotib olish; qadoqlash xarajatlarini optimallashtirish; chiqindilardan (pektin, danak moyi, biogaz) qo‘shimcha daromad olish; energiya va suvni tejash (issiqlik regeneratsiyasi); ekologik/organik sertifikat olib eksportga chiqish va premium narxda sotish; mahsulot assortimentini kengaytirish va brend yaratish tavsiya etiladi. Bu chora-tadbirlar tannarxni pasaytirib, foyda va rentabellikni oshiradi.
 
 # XULOSA
 
